@@ -5,9 +5,23 @@
     <description>The plain text recipe database for hackers</description>
     <link>http://localhost:4000/chowdown/</link>
     <atom:link href="http://localhost:4000/chowdown/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 14 Aug 2019 15:02:41 -0600</pubDate>
-    <lastBuildDate>Wed, 14 Aug 2019 15:02:41 -0600</lastBuildDate>
+    <pubDate>Wed, 14 Aug 2019 16:43:43 -0600</pubDate>
+    <lastBuildDate>Wed, 14 Aug 2019 16:43:43 -0600</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Apple Crisp</title>
+        <description>&lt;p&gt;A Hughlett recipe. It makes a lot, consider halving.&lt;/p&gt;
+</description>
+        <link>http://localhost:4000/chowdown/recipes/apple-crisp.html</link>
+        <guid isPermaLink="true">http://localhost:4000/chowdown/recipes/apple-crisp.html</guid>
+        
+        <category>dessert,</category>
+        
+        <category>baking</category>
+        
+        
+      </item>
     
       <item>
         <title>Banana Bread</title>
@@ -33,6 +47,33 @@
         <category>sides,</category>
         
         <category>soups</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Crispy Carnitas Pork Tacos</title>
+        <description>&lt;p&gt;From &lt;a href=&quot;https://www.gimmesomeoven.com/instant-pot-crispy-carnitas/&quot;&gt;Gimme Some Oven&lt;/a&gt;&lt;/p&gt;
+</description>
+        <link>http://localhost:4000/chowdown/recipes/carnitas-pork-tacos.html</link>
+        <guid isPermaLink="true">http://localhost:4000/chowdown/recipes/carnitas-pork-tacos.html</guid>
+        
+        <category>breakfast,</category>
+        
+        <category>baking</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Chicken Fajitas</title>
+        <description>&lt;p&gt;From &lt;a href=&quot;https://www.jocooks.com/recipes/easy-chicken-fajitas/&quot;&gt;Jo Cooks&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <link>http://localhost:4000/chowdown/recipes/chicken-fajitas.html</link>
+        <guid isPermaLink="true">http://localhost:4000/chowdown/recipes/chicken-fajitas.html</guid>
+        
+        <category>dinner</category>
         
         
       </item>
@@ -110,46 +151,6 @@ This recipe shares many of the same ingredients as Pot Pie, make them in the sam
         <category>mains,</category>
         
         <category>meat</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>New York Strip</title>
-        <description>&lt;p&gt;Cooking a steak in a water bath is the ultimate, both in terms of flavor and laziness. Dial in a precise temperature, then go take a nap.&lt;/p&gt;
-</description>
-        <link>http://localhost:4000/chowdown/recipes/new-york-strip.html</link>
-        <guid isPermaLink="true">http://localhost:4000/chowdown/recipes/new-york-strip.html</guid>
-        
-        <category>mains,</category>
-        
-        <category>meat</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Nilla Wafer French Toast</title>
-        <description>&lt;p&gt;From a weird Sunday morning when I realized we didn’t have bread. Solid hitter. Served with &lt;a href=&quot;https://amzn.to/2QBpGCH&quot;&gt;Treehive&lt;/a&gt; Syrup, my new favorite breakfast obsession (it’s mixed with honey, vanilla, and cinnamon, oof).&lt;/p&gt;
-</description>
-        <link>http://localhost:4000/chowdown/recipes/nilla-wafer-french-toast.html</link>
-        <guid isPermaLink="true">http://localhost:4000/chowdown/recipes/nilla-wafer-french-toast.html</guid>
-        
-        <category>breakfast,</category>
-        
-        <category>baking</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>One Minute Muffin</title>
-        <description>&lt;p&gt;This flax muffin is quick, vertsatile (just mix in other goodies), and only makes one at a time, so you’ve got no huge tray to tempt you. Custom muffins every morning!&lt;/p&gt;
-</description>
-        <link>http://localhost:4000/chowdown/recipes/one-minute-muffin.html</link>
-        <guid isPermaLink="true">http://localhost:4000/chowdown/recipes/one-minute-muffin.html</guid>
-        
-        <category>breakfast</category>
         
         
       </item>

@@ -3,6 +3,7 @@
 layout: recipe
 title:  "Chicken Noodle Soup"
 image: chicken-noodle-soup.jpg
+imagecredit: https://www.countryliving.com/food-drinks/recipes/a1870/homemade-chicken-noodle-soup-3996/
 tags: dinner, soup, meal-prep
 
 ingredients:

@@ -2,6 +2,11 @@
 
 [
     {
+        "title": "Apple Crisp",
+        "image": "images/large/apple-crisp.jpg"
+    },
+
+    {
         "title": "Banana Bread",
         "image": "images/large/banana-bread.jpg"
     },
@@ -9,6 +14,16 @@
     {
         "title": "Broccoli Beer Cheese Soup",
         "image": "images/large/broccoli-beer-cheese-soup.jpg"
+    },
+
+    {
+        "title": "Crispy Carnitas Pork Tacos",
+        "image": "images/large/carnitas-pork-tacos.jpg"
+    },
+
+    {
+        "title": "Chicken Fajitas",
+        "image": "images/large/chicken-fajitas.jpg"
     },
 
     {
