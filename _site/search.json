@@ -20,8 +20,17 @@
   
     {
     
+	    "title"    : "Chicken Noodle Soup",
+		"ingredients"    : "1 Tablespoon butter, ½ Cup chopped onion, ½ Cup chopped celery, 1 Cup sliced carrots, Four 14.5 ounce cans chicken broth, One 14.5 ounce can vegetable broth, ½ Pound chopped cooked chicken (rotisserie chicken), 1 ½ Cup egg noodles, ½ Teaspoon dried basil, ½ Teaspoon dried oregano, salt and pepper to taste, ",
+		"image"	   : "chicken-noodle-soup.jpg",
+	    "url"      : "/recipes/chicken-noodle-soup.html"
+      
+    } ,
+  
+    {
+    
 	    "title"    : "Crockpot Buffalo Chicken",
-		"ingredients"    : "6-8 chicken breasts, 1 packet ranch mix, 1 bottle Frank's Red Hot, 1 stick of butter, ",
+		"ingredients"    : "6-8 chicken breasts, 1 packet ranch mix, 1 bottle Frank&#39;s Red Hot, 1 stick of butter, ",
 		"image"	   : "crockpot-buffalo-chicken.jpg",
 	    "url"      : "/recipes/crockpot-buffalo-chicken.html"
       
@@ -84,7 +93,7 @@
     {
     
 	    "title"    : "Pork Steaks",
-		"ingredients"    : "pork shoulder (or other cheap cut), immerison circulator (we like the [Anova](http://www.amazon.com/gp/product/B00UKPBXM4/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00UKPBXM4&linkCode=as2&tag=repl-20&linkId=XMRXWQ35OJNCZVGE)), ",
+		"ingredients"    : "pork shoulder (or other cheap cut), immerison circulator (we like the [Anova](http://www.amazon.com/gp/product/B00UKPBXM4/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B00UKPBXM4&amp;linkCode=as2&amp;tag=repl-20&amp;linkId=XMRXWQ35OJNCZVGE)), ",
 		"image"	   : "pork-steaks.jpg",
 	    "url"      : "/recipes/pork-steaks.html"
       
@@ -120,7 +129,7 @@
     {
     
 	    "title"    : "Smashed Carrots",
-		"ingredients"    : "1 can carrots, 1 tbsp butter, 2 tbsp parmesan cheese, salt & pepper to taste, ",
+		"ingredients"    : "1 can carrots, 1 tbsp butter, 2 tbsp parmesan cheese, salt &amp; pepper to taste, ",
 		"image"	   : "smashed-carrots.jpg",
 	    "url"      : "/recipes/smashed-carrots.html"
       

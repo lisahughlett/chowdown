@@ -5,9 +5,9 @@
     <description>The plain text recipe database for hackers</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 20 Sep 2018 13:30:47 -0500</pubDate>
-    <lastBuildDate>Thu, 20 Sep 2018 13:30:47 -0500</lastBuildDate>
-    <generator>Jekyll v3.8.3</generator>
+    <pubDate>Wed, 14 Aug 2019 13:18:11 -0600</pubDate>
+    <lastBuildDate>Wed, 14 Aug 2019 13:18:11 -0600</lastBuildDate>
+    <generator>Jekyll v3.8.5</generator>
     
       <item>
         <title>Banana Bread</title>
@@ -33,6 +33,23 @@
         <category>sides,</category>
         
         <category>soups</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Chicken Noodle Soup</title>
+        <description>&lt;p&gt;This recipe freezes really well to be eaten later. Before adding in noodles, separate out the portion you want to freeze. To reheat, thaw frozen soup and follow steps 5 and 6.
+This recipe shares many of the same ingredients as Pot Pie, make them in the same week!&lt;/p&gt;
+</description>
+        <link>http://localhost:4000/recipes/chicken-noodle-soup.html</link>
+        <guid isPermaLink="true">http://localhost:4000/recipes/chicken-noodle-soup.html</guid>
+        
+        <category>dinner,</category>
+        
+        <category>soup,</category>
+        
+        <category>meal-prep</category>
         
         
       </item>
@@ -133,20 +150,6 @@
         <guid isPermaLink="true">http://localhost:4000/recipes/one-minute-muffin.html</guid>
         
         <category>breakfast</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Pork Steaks</title>
-        <description>&lt;p&gt;Pork is called “the other white meat”, but this sous vide technique is so dang good I’m gonna graduate it up to “THE white meat”.&lt;/p&gt;
-</description>
-        <link>http://localhost:4000/recipes/pork-steaks.html</link>
-        <guid isPermaLink="true">http://localhost:4000/recipes/pork-steaks.html</guid>
-        
-        <category>mains,</category>
-        
-        <category>meat</category>
         
         
       </item>

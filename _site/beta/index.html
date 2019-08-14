@@ -191,9 +191,9 @@ input{
     
     
       <div class="recipe sm-col sm-col-6 md-col-4 py1">
-          <a class="block relative bg-blue mx1" href="/recipes/stuffed-peppers.html">
-            <div class="image ratio bg-cover"  style="background-image:url(/images/stuffed-peppers.jpg);"></div>
-            <h1 class="title p2 m0 absolute bold white bottom-0 left-0">Stuffed Peppers</h1>
+          <a class="block relative bg-blue mx1" href="/recipes/banana-bread.html">
+            <div class="image ratio bg-cover"  style="background-image:url(/images/banana-bread.jpg);"></div>
+            <h1 class="title p2 m0 absolute bold white bottom-0 left-0">Banana Bread</h1>
           </a>
       </div>
     
@@ -201,6 +201,13 @@ input{
           <a class="block relative bg-blue mx1" href="/recipes/broccoli-cheese-soup.html">
             <div class="image ratio bg-cover"  style="background-image:url(/images/broccoli-beer-cheese-soup.jpg);"></div>
             <h1 class="title p2 m0 absolute bold white bottom-0 left-0">Broccoli Beer Cheese Soup</h1>
+          </a>
+      </div>
+    
+      <div class="recipe sm-col sm-col-6 md-col-4 py1">
+          <a class="block relative bg-blue mx1" href="/recipes/chicken-noodle-soup.html">
+            <div class="image ratio bg-cover"  style="background-image:url(/images/chicken-noodle-soup.jpg);"></div>
+            <h1 class="title p2 m0 absolute bold white bottom-0 left-0">Chicken Noodle Soup</h1>
           </a>
       </div>
     
@@ -289,9 +296,9 @@ input{
       </div>
     
       <div class="recipe sm-col sm-col-6 md-col-4 py1">
-          <a class="block relative bg-blue mx1" href="/recipes/banana-bread.html">
-            <div class="image ratio bg-cover"  style="background-image:url(/images/banana-bread.jpg);"></div>
-            <h1 class="title p2 m0 absolute bold white bottom-0 left-0">Banana Bread</h1>
+          <a class="block relative bg-blue mx1" href="/recipes/stuffed-peppers.html">
+            <div class="image ratio bg-cover"  style="background-image:url(/images/stuffed-peppers.jpg);"></div>
+            <h1 class="title p2 m0 absolute bold white bottom-0 left-0">Stuffed Peppers</h1>
           </a>
       </div>
     
@@ -404,11 +411,6 @@ SimpleJekyllSearch({
 <script>
 
 	$( document ).ready(function() {
-
-	$('#search-input').on('input', function() {
-	  currentHeight = $('#search-container').outerHeight();
-	  $('.search').addClass('used').css('height', currentHeight);
-	});
 
 	$(".item.recipes").click(function() {
 	    $('#slider').removeClass().addClass('recipes');
