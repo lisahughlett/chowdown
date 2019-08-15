@@ -5,7 +5,7 @@ title:  "Crispy Carnitas Pork Tacos"
 image: carnitas-pork-tacos.jpg
 imagecredit: https://www.gimmesomeoven.com/instant-pot-crispy-carnitas/
 
-tags: dinner, instapot
+tags: dinner, instapot, mealprep
 
 ingredients:
 - 1 (4-5 pound) lean boneless pork roast, cut into 2-inch chunks (with excess fat trimmed off) fine sea salt and freshly-cracked black pepper
