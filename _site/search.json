@@ -49,6 +49,22 @@
     } ,
   
     {
+	    "title"    : "Cheesy Garlic Biscuits",
+
+		  
+		    "tags" : "sides, ",
+		  
+
+		  
+		    "ingredients" : "½ cup butter, divided, 2 cups all-purpose flour, 1 tbsp. granulated sugar, 1 tbsp. baking powder, 1 tbsp. garlic powder, 2 tsp. kosher salt, divided, 1 cup whole milk, 2 cups mild cheddar cheese, ½ teaspoon dried parsley, ",
+		  
+
+      "image"	   : "cheesy-garlic-biscuits.jpg",
+      "url"      : "/chowdown/recipes/cheesy-garlic-biscuits.html"
+      
+    } ,
+  
+    {
 	    "title"    : "Chicken Fajitas",
 
 		  
@@ -77,6 +93,22 @@
 
       "image"	   : "chicken-noodle-soup.jpg",
       "url"      : "/chowdown/recipes/chicken-noodle-soup.html"
+      
+    } ,
+  
+    {
+	    "title"    : "Chicken Taquitos",
+
+		  
+		    "tags" : "dinner,, mealprep, ",
+		  
+
+		  
+		    "ingredients" : "3 ounces cream cheese, softened, ¼ cup salsa (red or green), 1 tablespoon lime juice, ½ teaspoon cumin, ½ teaspoon chili powder, ½ teaspoon onion powder, 2 cloves garlic, minced, 3 tablespoons chopped cilantro or parsley, 2 small scallions, diced, 2 cups shredded cooked chicken, 1 cup pepperjack cheese, 12 6-inch flour tortillas, cooking spray, kosher salt, ",
+		  
+
+      "image"	   : "chicken-taquitos.jpg",
+      "url"      : "/chowdown/recipes/chicken-taquitos.html"
       
     } ,
   
@@ -141,6 +173,38 @@
 
       "image"	   : "fish-tacos.jpg",
       "url"      : "/chowdown/recipes/fish-tacos.html"
+      
+    } ,
+  
+    {
+	    "title"    : "Fried Rice",
+
+		  
+		    "tags" : "dinner, ",
+		  
+
+		  
+		    "ingredients" : "3 tablespoons butter, divided, 2 eggs, whisked, 2 medium carrots, peeled and diced, ½ cup frozen peas, 1 small white onion, diced, 3 cloves garlic, minced, salt and pepper, 4 cups cooked and chilled rice, 3 green onions, thinly sliced, 3-4 tbsp soy sauce, or more to taste, 2 tbsp oyster sauce (optional), ½ tsp toasted sesame oil, ",
+		  
+
+      "image"	   : "fried-rice.jpg",
+      "url"      : "/chowdown/recipes/fried-rice.html"
+      
+    } ,
+  
+    {
+	    "title"    : "Garlic Parmesan Salmon",
+
+		  
+		    "tags" : "dinner, ",
+		  
+
+		  
+		    "ingredients" : "2 pounds side wild salmon fillet, ⅔ cup plain breadcrumbs, ⅔ cup grated parmesan cheese, ¼ cup finely chopped parsley, 4 cloves garlic , minced, ⅓ cup melted butter, Salt and pepper, Lemon wedges, to serve, ",
+		  
+
+      "image"	   : "garlic-parmesan-salmon.jpg",
+      "url"      : "/chowdown/recipes/garlic-parmesan-salmon.html"
       
     } ,
   

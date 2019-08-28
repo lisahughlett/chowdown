@@ -17,6 +17,11 @@
     },
 
     {
+        "title": "Cheesy Garlic Biscuits",
+        "image": "images/large/cheesy-garlic-biscuits.jpg"
+    },
+
+    {
         "title": "Chicken Fajitas",
         "image": "images/large/chicken-fajitas.jpg"
     },
@@ -24,6 +29,11 @@
     {
         "title": "Chicken Noodle Soup",
         "image": "images/large/chicken-noodle-soup.jpg"
+    },
+
+    {
+        "title": "Chicken Taquitos",
+        "image": "images/large/chicken-taquitos.jpg"
     },
 
     {
@@ -44,6 +54,16 @@
     {
         "title": "Fish Tacos",
         "image": "images/large/fish-tacos.jpg"
+    },
+
+    {
+        "title": "Fried Rice",
+        "image": "images/large/fried-rice.jpg"
+    },
+
+    {
+        "title": "Garlic Parmesan Salmon",
+        "image": "images/large/garlic-parmesan-salmon.jpg"
     },
 
     {

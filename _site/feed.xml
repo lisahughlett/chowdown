@@ -5,8 +5,8 @@
     <description>The plain text recipe database for hackers</description>
     <link>http://localhost:4000/chowdown/</link>
     <atom:link href="http://localhost:4000/chowdown/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 14 Aug 2019 18:36:58 -0600</pubDate>
-    <lastBuildDate>Wed, 14 Aug 2019 18:36:58 -0600</lastBuildDate>
+    <pubDate>Tue, 27 Aug 2019 22:38:39 -0600</pubDate>
+    <lastBuildDate>Tue, 27 Aug 2019 22:38:39 -0600</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -54,6 +54,19 @@
       </item>
     
       <item>
+        <title>Cheesy Garlic Biscuits</title>
+        <description>&lt;p&gt;From &lt;a href=&quot;https://iambaker.net/cheesy-garlic-biscuits-red-lobster/&quot;&gt;I Am Baker&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <link>http://localhost:4000/chowdown/recipes/cheesy-garlic-biscuits.html</link>
+        <guid isPermaLink="true">http://localhost:4000/chowdown/recipes/cheesy-garlic-biscuits.html</guid>
+        
+        <category>sides</category>
+        
+        
+      </item>
+    
+      <item>
         <title>Chicken Fajitas</title>
         <description>&lt;p&gt;From &lt;a href=&quot;https://www.jocooks.com/recipes/easy-chicken-fajitas/&quot;&gt;Jo Cooks&lt;/a&gt;&lt;/p&gt;
 
@@ -77,6 +90,20 @@ This recipe shares many of the same ingredients as Pot Pie, make them in the sam
         <category>dinner,</category>
         
         <category>soup,</category>
+        
+        <category>mealprep</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Chicken Taquitos</title>
+        <description>&lt;p&gt;From &lt;a href=&quot;https://bellyfull.net/2012/01/31/baked-chicken-taquitos/&quot;&gt;Belly Full&lt;/a&gt;. These freeze great. Make a batch and freeze the extras before baking and bake the rest from frozen later!&lt;/p&gt;
+</description>
+        <link>http://localhost:4000/chowdown/recipes/chicken-taquitos.html</link>
+        <guid isPermaLink="true">http://localhost:4000/chowdown/recipes/chicken-taquitos.html</guid>
+        
+        <category>dinner,</category>
         
         <category>mealprep</category>
         
@@ -117,26 +144,6 @@ This recipe shares many of the same ingredients as Pot Pie, make them in the sam
         <guid isPermaLink="true">http://localhost:4000/chowdown/recipes/cinnamon-rolls.html</guid>
         
         <category>dessert</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Fish Tacos</title>
-        <description>&lt;p&gt;From &lt;a href=&quot;https://www.spendwithpennies.com/fish-tacos-recipe-onion-slaw/&quot;&gt;Spend with Pennies&lt;/a&gt;&lt;/p&gt;
-</description>
-        <link>http://localhost:4000/chowdown/recipes/fish-tacos.html</link>
-        <guid isPermaLink="true">http://localhost:4000/chowdown/recipes/fish-tacos.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title></title>
-        <description>&lt;p&gt;Description&lt;/p&gt;
-</description>
-        <link>http://localhost:4000/chowdown/recipes/template.html</link>
-        <guid isPermaLink="true">http://localhost:4000/chowdown/recipes/template.html</guid>
         
         
       </item>
