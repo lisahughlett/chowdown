@@ -82,7 +82,17 @@
     },
 
     {
+        "title": "Sun Dried Tomato Parmesan Chicken",
+        "image": "images/large/sun-dried-tomato-parmesan-chicken.jpg"
+    },
+
+    {
         "title": "",
         "image": "images/large/"
+    },
+
+    {
+        "title": "Tuscan Chicken Mac'n Cheese",
+        "image": "images/large/tuscan-chicken-mac-n-cheese.jpg"
     }
 ]
