@@ -5,8 +5,8 @@
     <description>The plain text recipe database for hackers</description>
     <link>http://localhost:4000/chowdown/</link>
     <atom:link href="http://localhost:4000/chowdown/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 27 Aug 2019 22:38:39 -0600</pubDate>
-    <lastBuildDate>Tue, 27 Aug 2019 22:38:39 -0600</lastBuildDate>
+    <pubDate>Wed, 28 Aug 2019 18:17:51 -0600</pubDate>
+    <lastBuildDate>Wed, 28 Aug 2019 18:17:51 -0600</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -33,6 +33,20 @@
         <category>breakfast,</category>
         
         <category>baking</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Broccoli Cheddar Soup</title>
+        <description>&lt;p&gt;From &lt;a href=&quot;https://www.jocooks.com/recipes/broccoli-cheese-soup/&quot;&gt;Jo Cooks&lt;/a&gt;. Doesn’t freeze great…&lt;/p&gt;
+
+&lt;p&gt;*If you don’t want to use Velveeta you can substitute it with more cheddar cheese or Monterey Jack cheese, it’s just that Velveeta will make the soup more creamier and smooth.&lt;/p&gt;
+</description>
+        <link>http://localhost:4000/chowdown/recipes/broccoli-cheddar-soup.html</link>
+        <guid isPermaLink="true">http://localhost:4000/chowdown/recipes/broccoli-cheddar-soup.html</guid>
+        
+        <category>dinner</category>
         
         
       </item>
@@ -132,18 +146,6 @@ This recipe shares many of the same ingredients as Pot Pie, make them in the sam
         <guid isPermaLink="true">http://localhost:4000/chowdown/recipes/cinnamon-roasted-butternut-squash.html</guid>
         
         <category>side</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Cinnamon Rolls</title>
-        <description>
-</description>
-        <link>http://localhost:4000/chowdown/recipes/cinnamon-rolls.html</link>
-        <guid isPermaLink="true">http://localhost:4000/chowdown/recipes/cinnamon-rolls.html</guid>
-        
-        <category>dessert</category>
         
         
       </item>

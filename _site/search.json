@@ -33,6 +33,22 @@
     } ,
   
     {
+	    "title"    : "Broccoli Cheddar Soup",
+
+		  
+		    "tags" : "dinner, ",
+		  
+
+		  
+		    "ingredients" : "6 tbsp butter unsalted, 1 onion chopped, 6 tbsp all-purpose flour, 2 cups half and half cream, 6 cups chicken broth low sodium, 1 tsp salt, 1 tsp white pepper, ¼ tsp nutmeg, 1 head broccoli florets about 1 lb, 1 cup Velveeta cubed\*, 3 cups cheddar cheese shredded, 2 tbsp parsley chopped, ",
+		  
+
+      "image"	   : "broccoli-cheddar-soup.jpg",
+      "url"      : "/chowdown/recipes/broccoli-cheddar-soup.html"
+      
+    } ,
+  
+    {
 	    "title"    : "Crispy Carnitas Pork Tacos",
 
 		  
@@ -205,6 +221,38 @@
 
       "image"	   : "garlic-parmesan-salmon.jpg",
       "url"      : "/chowdown/recipes/garlic-parmesan-salmon.html"
+      
+    } ,
+  
+    {
+	    "title"    : "Lemon Shrimp Linguine",
+
+		  
+		    "tags" : "dinner, ",
+		  
+
+		  
+		    "ingredients" : "1 box of linguine noodles, 1 Tablespoon Olive Oil, 6 Cloves minced Garlic, ½ Cup Chicken Broth, ¼ Cup white wine, 1 juiced lemon, ½ Teaspoon lemon zest, Salt to taste, 2 Teaspoon ground black pepper, 1 Pound peeled and deveined shrimp, ¼ Cup butter, 3 Tablespoon chopped fresh parsley, 1 Tablespoon chopped fresh Basil, ",
+		  
+
+      "image"	   : "lemon-shrimp-linguine.jpg",
+      "url"      : "/chowdown/recipes/lemon_shrimp_linguine.html"
+      
+    } ,
+  
+    {
+	    "title"    : "Slow Cook Mac&#39;n Cheese",
+
+		  
+		    "tags" : "dinner,, mealprep,, slowcook,, instapot, ",
+		  
+
+		  
+		    "ingredients" : "2 Cups uncooked elbow macaroni, 4 Tablespoon butter, 2 ½ Cup about 10 ounces grated sharp cheddar cheese, 3 beaten eggs, ½ Cup sour cream, 10 ¾ Ounces Canned condensed cheddar cheese soup, ½ Teaspoon salt, 1 Cup milk, ½ Teaspoon dry mustard, ½ Teaspoon black pepper, ",
+		  
+
+      "image"	   : "slow-cook-mac-n-cheese.jpg",
+      "url"      : "/chowdown/recipes/slow-cook-mac-n-cheese.html"
       
     } ,
   

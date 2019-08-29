@@ -12,6 +12,11 @@
     },
 
     {
+        "title": "Broccoli Cheddar Soup",
+        "image": "images/large/broccoli-cheddar-soup.jpg"
+    },
+
+    {
         "title": "Crispy Carnitas Pork Tacos",
         "image": "images/large/carnitas-pork-tacos.jpg"
     },
@@ -64,6 +69,16 @@
     {
         "title": "Garlic Parmesan Salmon",
         "image": "images/large/garlic-parmesan-salmon.jpg"
+    },
+
+    {
+        "title": "Lemon Shrimp Linguine",
+        "image": "images/large/lemon-shrimp-linguine.jpg"
+    },
+
+    {
+        "title": "Slow Cook Mac'n Cheese",
+        "image": "images/large/slow-cook-mac-n-cheese.jpg"
     },
 
     {
