@@ -17,7 +17,7 @@ ingredients:
 - 1 tsp white pepper
 - ¼ tsp nutmeg
 - 1 head broccoli florets about 1 lb
-- 1 cup Velveeta cubed\*
+- 1 cup Velveeta cubed
 - 3 cups cheddar cheese shredded
 - 2 tbsp parsley chopped
 
@@ -33,4 +33,4 @@ directions:
 
 From [Jo Cooks](https://www.jocooks.com/recipes/broccoli-cheese-soup/). Doesn't freeze great...
 
-\*If you don't want to use Velveeta you can substitute it with more cheddar cheese or Monterey Jack cheese, it's just that Velveeta will make the soup more creamier and smooth. 
+If you don't want to use Velveeta you can substitute it with more cheddar cheese or Monterey Jack cheese, it's just that Velveeta will make the soup more creamier and smooth. 
