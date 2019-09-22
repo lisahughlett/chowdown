@@ -7,6 +7,8 @@ imagecredit: https://cafedelites.com/tuscan-chicken-mac-and-cheese/
 
 tags: dinner
 
+recipeYield: 6 servings
+
 ingredients:
 - 2 large skinless boneless chicken breasts pounded to 1-inch thickness (or 4 boneless and skinless chicken thigh fillets)
 - Salt and pepper, to season
@@ -22,7 +24,7 @@ ingredients:
 - 2 cups chicken broth
 - 3 cups milk OR light cream or half and half, divided
 - 2 teaspoons dried Italian herbs
-- 10 ounces (300g) elbow macaroni uncooked (3 cups!)
+- 3 cups (10 oz) elbow macaroni uncooked
 - 3 cups baby spinach leaves
 - 1 cup fresh grated Parmesan cheese
 - ¾ cup mozzarella cheese shredded

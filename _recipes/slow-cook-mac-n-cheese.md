@@ -7,6 +7,8 @@ imagecredit: https://lifemadesweeter.com/crock-pot-macaroni-cheese/
 
 tags: dinner, mealprep, slowcook, instapot
 
+recipeYield: 4 servings
+
 ingredients:
 - 2 Cups uncooked elbow macaroni
 - 4 Tablespoon butter

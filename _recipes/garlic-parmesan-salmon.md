@@ -7,6 +7,8 @@ imagecredit: https://cafedelites.com/crispy-garlic-parmesan-salmon/
 
 tags: dinner
 
+recipeYield: 2+ servings depending on fillet size
+
 ingredients:
 - 2 pounds side wild salmon fillet
 - ⅔ cup plain breadcrumbs

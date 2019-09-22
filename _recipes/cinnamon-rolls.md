@@ -7,6 +7,8 @@ imagecredit: https://eatathomecooks.com/whole-wheat-cinnamon-rolls/
 
 tags: dessert
 
+recipeYield: 2 dozen
+
 ingredients:
 - Dough
 - Filling

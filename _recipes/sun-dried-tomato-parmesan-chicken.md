@@ -7,6 +7,8 @@ imagecredit: https://cafedelites.com/sun-dried-tomato-parmesan-chicken/
 
 tags: dinner
 
+recipeYield: 4 servings
+
 ingredients:
 - -- For The Chicken --
 - 2 large boneless and skinless chicken breasts , halved horizontally to make 4 fillets

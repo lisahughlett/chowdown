@@ -11,7 +11,7 @@ ingredients:
 - 1 butternut squash, peeled, seeded and cut into 1-inch cubes
 - 2 tablespoons olive oil
 - 2 tablespoons brown sugar
-- 1/2 teaspoon ground cinnamon
+- ½ teaspoon ground cinnamon
 - 1 teaspoon kosher salt
 - Dash of cayenne (optional)
 

@@ -7,6 +7,8 @@ imagecredit: https://www.gimmesomeoven.com/fried-rice-recipe/
 
 tags: dinner
 
+recipeYield: 4 servings
+
 ingredients:
 - 3 tablespoons butter, divided
 - 2 eggs, whisked
@@ -15,7 +17,7 @@ ingredients:
 - 1 small white onion, diced
 - 3 cloves garlic, minced
 - salt and pepper
-- 4 cups cooked and chilled rice 
+- 4 cups rice, cooked and chilled 
 - 3 green onions, thinly sliced
 - 3-4 tbsp soy sauce, or more to taste
 - 2 tbsp oyster sauce (optional)

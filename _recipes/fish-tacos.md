@@ -5,10 +5,12 @@ title:  "Fish Tacos"
 image: fish-tacos.jpg
 imagecredit: https://www.spendwithpennies.com/fish-tacos-recipe-onion-slaw/
 
-tags: 
+tags: dinner
+
+recipeYield: 2-3 servings
 
 ingredients:
-- 1 ½ lbs fillets of tilapia or cod/haddock
+- 3 fillets of tilapia or cod/haddock
 - 1 tablespoon olive oil
 
 directions:

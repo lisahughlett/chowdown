@@ -1,11 +1,13 @@
 ---
 
 layout: recipe
-title:  ""
+title: ""
 image: 
 imagecredit: 
 
 tags: 
+
+recipeYield:
 
 ingredients:
 

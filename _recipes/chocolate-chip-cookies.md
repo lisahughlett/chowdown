@@ -4,7 +4,10 @@ layout: recipe
 title:  "Chocolate Chip Cookies"
 image: chocolate-chip-cookies.jpg
 imagecredit: https://www.modernhoney.com/thin-and-crispy-chocolate-chip-cookies://www.modernhoney.com/thin-and-crispy-chocolate-chip-cookies/
+
 tags: dessert
+
+recipeYield: 2 dozen
 
 ingredients:
 - ⅓  Cup shortening
@@ -27,6 +30,4 @@ directions:
 - Bake for 8-10 minutes
 
 ---
-
-Makes 2 dozen
 

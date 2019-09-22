@@ -7,6 +7,8 @@ imagecredit: https://www.jocooks.com/recipes/broccoli-cheese-soup/
 
 tags: dinner
 
+recipeYield: 8 bowls
+
 ingredients:
 - 6 tbsp butter unsalted
 - 1 onion chopped

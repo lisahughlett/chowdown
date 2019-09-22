@@ -5,8 +5,8 @@
     <description>The plain text recipe database for hackers</description>
     <link>http://localhost:4000/chowdown/</link>
     <atom:link href="http://localhost:4000/chowdown/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 03 Sep 2019 19:56:47 -0600</pubDate>
-    <lastBuildDate>Tue, 03 Sep 2019 19:56:47 -0600</lastBuildDate>
+    <pubDate>Sat, 21 Sep 2019 19:22:51 -0600</pubDate>
+    <lastBuildDate>Sat, 21 Sep 2019 19:22:51 -0600</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -125,27 +125,27 @@ This recipe shares many of the same ingredients as Pot Pie, make them in the sam
       </item>
     
       <item>
-        <title>Chocolate Chip Cookies</title>
-        <description>&lt;p&gt;Makes 2 dozen&lt;/p&gt;
-
+        <title>Chicken or Veggie Pot Pie</title>
+        <description>&lt;p&gt;If you want to do a vegetable pot pie, replace the 2-3 cups of turkey/chicken with more vegetables&lt;/p&gt;
 </description>
-        <link>http://localhost:4000/chowdown/recipes/chocolate-chip-cookies.html</link>
-        <guid isPermaLink="true">http://localhost:4000/chowdown/recipes/chocolate-chip-cookies.html</guid>
+        <link>http://localhost:4000/chowdown/recipes/chicken-vegetable-pot-pie.html</link>
+        <guid isPermaLink="true">http://localhost:4000/chowdown/recipes/chicken-vegetable-pot-pie.html</guid>
         
-        <category>dessert</category>
+        <category>dinner</category>
+        
+        <category>mealprep</category>
         
         
       </item>
     
       <item>
-        <title>Cinnamon Roasted Butternut Squash</title>
-        <description>&lt;p&gt;From &lt;a href=&quot;https://www.inspiredtaste.net/25065/cinnamon-roasted-butternut-squash-recipe/&quot;&gt;Inspired Taste&lt;/a&gt;&lt;/p&gt;
-
+        <title>Chocolate Chip Cookies</title>
+        <description>
 </description>
-        <link>http://localhost:4000/chowdown/recipes/cinnamon-roasted-butternut-squash.html</link>
-        <guid isPermaLink="true">http://localhost:4000/chowdown/recipes/cinnamon-roasted-butternut-squash.html</guid>
+        <link>http://localhost:4000/chowdown/recipes/chocolate-chip-cookies.html</link>
+        <guid isPermaLink="true">http://localhost:4000/chowdown/recipes/chocolate-chip-cookies.html</guid>
         
-        <category>side</category>
+        <category>dessert</category>
         
         
       </item>

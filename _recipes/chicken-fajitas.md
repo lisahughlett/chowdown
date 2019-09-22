@@ -4,7 +4,10 @@ layout: recipe
 title:  "Chicken Fajitas"
 image: chicken-fajitas.jpg
 imagecredit: https://www.jocooks.com/recipes/easy-chicken-fajitas/
+
 tags: dinner
+
+recipeYield: 4 servings
 
 ingredients:
 - 1 lb chicken breast, boneless, skinless

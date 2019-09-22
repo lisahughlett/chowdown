@@ -27,7 +27,7 @@ layout: default
   <div class="px2 mt3 clearfix">
     <div class="sm-col-8 center mx-auto" itemprop="description">{{page.content}}</div>
   </div>
-  
+
 <!-- call up recipe and directions -->
   <div class="clearfix mt3">
   
@@ -43,6 +43,11 @@ layout: default
       </ul>
       {% endif %}
 
+      {% if page.recipeYield %}
+      <h4 class="blue mt0 mb2 xs-center">Yield</h4>
+      <div class="mt0 mb2 xs-center" itemprop="yield">{{page.recipeYield}}</div>
+      {% endif %}
+  
       {% if page.ingredients %}
       <h4 class="blue mt0 mb2 xs-center">Ingredients</h4>
       <ul itemprop="ingredients">
@@ -55,6 +60,7 @@ layout: default
     </div>
     
     <div class="sm-col sm-col-6 lg-col-6">
+
       <h4 class="blue mt0 mb2 xs-center">Directions</h4>
       <ul itemprop="recipeInstructions">
         {% for direction in page.directions %}

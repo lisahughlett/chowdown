@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-title:  "Apple Crisp"
+title: "Apple Crisp"
 image: apple-crisp.jpg
 imagecredit: https://www.tasteofhome.com/recipes/two-layered-apple-crisp/
 tags: dessert, baking

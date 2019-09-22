@@ -1,11 +1,13 @@
 ---
 
 layout: recipe
-title:  "Lemon Shrimp Linguine"
+title: "Lemon Shrimp Linguine"
 image: lemon-shrimp-linguine.jpg
 imagecredit: https://www.mccormick.com/recipes/main-dishes/creamy-shrimp-linguine
 
 tags: dinner
+
+recipeYield: 6 servings
 
 ingredients:
 - 1 box of linguine noodles
