@@ -2,8 +2,18 @@
 
 [
     {
+        "title": "Apple Brie Salad",
+        "image": "images/large/apple-brie-salad.jpg"
+    },
+
+    {
         "title": "Apple Crisp",
         "image": "images/large/apple-crisp.jpg"
+    },
+
+    {
+        "title": "Baked Brie with Apples and Salted Caramel",
+        "image": "images/large/baked-brie-with-apples-and-salted-caramel.jpg"
     },
 
     {
@@ -62,6 +72,16 @@
     },
 
     {
+        "title": "Cranberry Pecan Pumpkin Bread",
+        "image": "images/large/cranberry-pecan-pumpkin-bread.jpg"
+    },
+
+    {
+        "title": "Crepes",
+        "image": "images/large/crepes.jpg"
+    },
+
+    {
         "title": "Fish Tacos",
         "image": "images/large/fish-tacos.jpg"
     },
@@ -84,6 +104,11 @@
     {
         "title": "Italian Sausage and Peppers Pasta",
         "image": "images/large/italian-sausage-and-peppers-pasta.jpg"
+    },
+
+    {
+        "title": "Lemon Cookies",
+        "image": "images/large/lemon-cookies.jpg"
     },
 
     {
