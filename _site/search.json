@@ -465,6 +465,22 @@
     } ,
   
     {
+	    "title"    : "Russian Tea Cookies",
+
+		  
+		    "tags" : "dessert, ",
+		  
+
+		  
+		    "ingredients" : "1 cup butter softened, 1/2 cup powered sugar, 1 tsp vanilla, 2 1/4 cups flour, 1/4 tsp salt, 3/4 cup chopped nuts, ",
+		  
+
+      "image"	   : "russian-tea-cookies.jpg",
+      "url"      : "/chowdown/recipes/russian-tea-cookies.html"
+      
+    } ,
+  
+    {
 	    "title"    : "Slow Cook Mac&#39;n Cheese",
 
 		  
@@ -539,6 +555,22 @@
 
       "image"	   : "tuscan-chicken-mac-n-cheese.jpg",
       "url"      : "/chowdown/recipes/tuscan-chicken-mac-n-cheese.html"
+      
+    } ,
+  
+    {
+	    "title"    : "White Bean Chicken Chili",
+
+		  
+		    "tags" : "mealprep, dinner, soup, ",
+		  
+
+		  
+		    "ingredients" : "2 Tablespoon vegetable oil, 1 medium copped white onion, 1 chopped green chili, 4 cans white great northern beans, 2 cartons chicken broth, 1 cup water, 1 rotisserie chicken, 2 tsp salt, 2 tsp garlic powder, 2 tsp oregano, 1 1/2 tsp ground cumin, 1 1/2 tsp coriander, 1/2 tsp cayenne pepper, ",
+		  
+
+      "image"	   : "white-bean-chicken-chili.jpg",
+      "url"      : "/chowdown/recipes/white-bean-chicken-chili.html"
       
     } 
   

@@ -147,6 +147,11 @@
     },
 
     {
+        "title": "Russian Tea Cookies",
+        "image": "images/large/russian-tea-cookies.jpg"
+    },
+
+    {
         "title": "Slow Cook Mac'n Cheese",
         "image": "images/large/slow-cook-mac-n-cheese.jpg"
     },
@@ -169,5 +174,10 @@
     {
         "title": "Tuscan Chicken Mac'n Cheese",
         "image": "images/large/tuscan-chicken-mac-n-cheese.jpg"
+    },
+
+    {
+        "title": "White Bean Chicken Chili",
+        "image": "images/large/white-bean-chicken-chili.jpg"
     }
 ]
