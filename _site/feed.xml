@@ -3,18 +3,58 @@
   <channel>
     <title>Chowdown</title>
     <description>The plain text recipe database for hackers</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 20 Sep 2018 13:30:47 -0500</pubDate>
-    <lastBuildDate>Thu, 20 Sep 2018 13:30:47 -0500</lastBuildDate>
-    <generator>Jekyll v3.8.3</generator>
+    <link>http://localhost:4000/chowdown/</link>
+    <atom:link href="http://localhost:4000/chowdown/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 08 Dec 2019 16:47:40 -0700</pubDate>
+    <lastBuildDate>Sun, 08 Dec 2019 16:47:40 -0700</lastBuildDate>
+    <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Apple Brie Salad</title>
+        <description>
+</description>
+        <link>http://localhost:4000/chowdown/recipes/apple-brie-salad.html</link>
+        <guid isPermaLink="true">http://localhost:4000/chowdown/recipes/apple-brie-salad.html</guid>
+        
+        <category>dinner</category>
+        
+        <category>salad</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Apple Crisp</title>
+        <description>&lt;p&gt;A Hughlett recipe. It makes a lot, consider halving.&lt;/p&gt;
+</description>
+        <link>http://localhost:4000/chowdown/recipes/apple-crisp.html</link>
+        <guid isPermaLink="true">http://localhost:4000/chowdown/recipes/apple-crisp.html</guid>
+        
+        <category>dessert,</category>
+        
+        <category>baking</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Baked Brie with Apples and Salted Caramel</title>
+        <description>
+</description>
+        <link>http://localhost:4000/chowdown/recipes/baked-brie-with-apples-and-salted-caramel.html</link>
+        <guid isPermaLink="true">http://localhost:4000/chowdown/recipes/baked-brie-with-apples-and-salted-caramel.html</guid>
+        
+        <category>dessert</category>
+        
+        
+      </item>
     
       <item>
         <title>Banana Bread</title>
         <description>&lt;p&gt;From Angie’s mom&lt;/p&gt;
 </description>
-        <link>http://localhost:4000/recipes/banana-bread.html</link>
-        <guid isPermaLink="true">http://localhost:4000/recipes/banana-bread.html</guid>
+        <link>http://localhost:4000/chowdown/recipes/banana-bread.html</link>
+        <guid isPermaLink="true">http://localhost:4000/chowdown/recipes/banana-bread.html</guid>
         
         <category>breakfast,</category>
         
@@ -24,129 +64,88 @@
       </item>
     
       <item>
-        <title>Broccoli Beer Cheese Soup</title>
-        <description>&lt;p&gt;This recipe is inspired by one of my favorites, Gourmand’s Beer Cheese Soup, which uses Shiner Bock. Feel free to use whatever you want, then go to &lt;a href=&quot;http://lovethysandwich.com&quot;&gt;Gourmand’s&lt;/a&gt; to have the real thing.&lt;/p&gt;
-</description>
-        <link>http://localhost:4000/recipes/broccoli-cheese-soup.html</link>
-        <guid isPermaLink="true">http://localhost:4000/recipes/broccoli-cheese-soup.html</guid>
-        
-        <category>sides,</category>
-        
-        <category>soups</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Crockpot Buffalo Chicken</title>
-        <description>&lt;p&gt;This is a party favorite, perfect for a Super Bowl or a game night. It takes a long time, but like most slow cooker recipes, is easy as hell. Bonus: guests love it.&lt;/p&gt;
-</description>
-        <link>http://localhost:4000/recipes/crockpot-buffalo-chicken.html</link>
-        <guid isPermaLink="true">http://localhost:4000/recipes/crockpot-buffalo-chicken.html</guid>
-        
-        <category>mains,</category>
-        
-        <category>grill,</category>
-        
-        <category>party</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Downtown Marinade</title>
-        <description>&lt;p&gt;This is my go-to marinade for everything from steaks to shrimp to fajitas to pork. Seriously, if I’m cooking or grilling meat, there’s a good chance this is what it’s soaking in. It’s perfect for “street meat” aka cart or truck, like tacos and wraps and kebabs and skewers and everything in between. Start with this base, add spice or herb as desired.&lt;/p&gt;
-</description>
-        <link>http://localhost:4000/recipes/downtown-chowdown-marinade.html</link>
-        <guid isPermaLink="true">http://localhost:4000/recipes/downtown-chowdown-marinade.html</guid>
-        
-        <category>party,</category>
-        
-        <category>meat</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Green Chile Stew</title>
-        <description>&lt;p&gt;This is a simple one, consisting of a pre-made soup mix and whatever you’ve got around the kitchen (or campsite). Feel free to sub/swap/switch anything in the ingredient list— anything’s fair game!&lt;/p&gt;
-</description>
-        <link>http://localhost:4000/recipes/green-chile-stew.html</link>
-        <guid isPermaLink="true">http://localhost:4000/recipes/green-chile-stew.html</guid>
-        
-        <category>sides,</category>
-        
-        <category>soups</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Mongolian Beef</title>
-        <description>&lt;p&gt;A quick go-to dinner. Can be made with almost any meat. I often used ground. Works perfect for lettuce wraps. Try replacing the onion with thinly sliced fennel.&lt;/p&gt;
+        <title>Broccoli Cheddar Soup</title>
+        <description>&lt;p&gt;From &lt;a href=&quot;https://www.jocooks.com/recipes/broccoli-cheese-soup/&quot;&gt;Jo Cooks&lt;/a&gt;. Doesn’t freeze great…&lt;/p&gt;
 
-&lt;p&gt;Optional: spice this thing up, with a dose of your favorite chili paste/sauce.&lt;/p&gt;
+&lt;p&gt;If you don’t want to use Velveeta you can substitute it with more cheddar cheese or Monterey Jack cheese, it’s just that Velveeta will make the soup more creamier and smooth.&lt;/p&gt;
 </description>
-        <link>http://localhost:4000/recipes/mongolian-beef.html</link>
-        <guid isPermaLink="true">http://localhost:4000/recipes/mongolian-beef.html</guid>
+        <link>http://localhost:4000/chowdown/recipes/broccoli-cheddar-soup.html</link>
+        <guid isPermaLink="true">http://localhost:4000/chowdown/recipes/broccoli-cheddar-soup.html</guid>
         
-        <category>mains,</category>
-        
-        <category>meat</category>
+        <category>dinner</category>
         
         
       </item>
     
       <item>
-        <title>New York Strip</title>
-        <description>&lt;p&gt;Cooking a steak in a water bath is the ultimate, both in terms of flavor and laziness. Dial in a precise temperature, then go take a nap.&lt;/p&gt;
+        <title>Crispy Carnitas Pork Tacos</title>
+        <description>&lt;p&gt;From &lt;a href=&quot;https://www.gimmesomeoven.com/instant-pot-crispy-carnitas/&quot;&gt;Gimme Some Oven&lt;/a&gt;&lt;/p&gt;
 </description>
-        <link>http://localhost:4000/recipes/new-york-strip.html</link>
-        <guid isPermaLink="true">http://localhost:4000/recipes/new-york-strip.html</guid>
+        <link>http://localhost:4000/chowdown/recipes/carnitas-pork-tacos.html</link>
+        <guid isPermaLink="true">http://localhost:4000/chowdown/recipes/carnitas-pork-tacos.html</guid>
         
-        <category>mains,</category>
+        <category>dinner,</category>
         
-        <category>meat</category>
+        <category>instapot,</category>
+        
+        <category>mealprep</category>
         
         
       </item>
     
       <item>
-        <title>Nilla Wafer French Toast</title>
-        <description>&lt;p&gt;From a weird Sunday morning when I realized we didn’t have bread. Solid hitter. Served with &lt;a href=&quot;https://amzn.to/2QBpGCH&quot;&gt;Treehive&lt;/a&gt; Syrup, my new favorite breakfast obsession (it’s mixed with honey, vanilla, and cinnamon, oof).&lt;/p&gt;
+        <title>Cheesy Garlic Biscuits</title>
+        <description>&lt;p&gt;From &lt;a href=&quot;https://iambaker.net/cheesy-garlic-biscuits-red-lobster/&quot;&gt;I Am Baker&lt;/a&gt;&lt;/p&gt;
+
 </description>
-        <link>http://localhost:4000/recipes/nilla-wafer-french-toast.html</link>
-        <guid isPermaLink="true">http://localhost:4000/recipes/nilla-wafer-french-toast.html</guid>
+        <link>http://localhost:4000/chowdown/recipes/cheesy-garlic-biscuits.html</link>
+        <guid isPermaLink="true">http://localhost:4000/chowdown/recipes/cheesy-garlic-biscuits.html</guid>
         
-        <category>breakfast,</category>
-        
-        <category>baking</category>
+        <category>sides</category>
         
         
       </item>
     
       <item>
-        <title>One Minute Muffin</title>
-        <description>&lt;p&gt;This flax muffin is quick, vertsatile (just mix in other goodies), and only makes one at a time, so you’ve got no huge tray to tempt you. Custom muffins every morning!&lt;/p&gt;
+        <title>Chicken Fajitas</title>
+        <description>&lt;p&gt;From &lt;a href=&quot;https://www.jocooks.com/recipes/easy-chicken-fajitas/&quot;&gt;Jo Cooks&lt;/a&gt;&lt;/p&gt;
+
 </description>
-        <link>http://localhost:4000/recipes/one-minute-muffin.html</link>
-        <guid isPermaLink="true">http://localhost:4000/recipes/one-minute-muffin.html</guid>
+        <link>http://localhost:4000/chowdown/recipes/chicken-fajitas.html</link>
+        <guid isPermaLink="true">http://localhost:4000/chowdown/recipes/chicken-fajitas.html</guid>
         
-        <category>breakfast</category>
+        <category>dinner</category>
         
         
       </item>
     
       <item>
-        <title>Pork Steaks</title>
-        <description>&lt;p&gt;Pork is called “the other white meat”, but this sous vide technique is so dang good I’m gonna graduate it up to “THE white meat”.&lt;/p&gt;
+        <title>Chicken Noodle Soup</title>
+        <description>&lt;p&gt;This recipe freezes really well to be eaten later. Before adding in noodles, separate out the portion you want to freeze. To reheat, thaw frozen soup and follow steps 5 and 6.
+This recipe shares many of the same ingredients as Pot Pie, make them in the same week!&lt;/p&gt;
 </description>
-        <link>http://localhost:4000/recipes/pork-steaks.html</link>
-        <guid isPermaLink="true">http://localhost:4000/recipes/pork-steaks.html</guid>
+        <link>http://localhost:4000/chowdown/recipes/chicken-noodle-soup.html</link>
+        <guid isPermaLink="true">http://localhost:4000/chowdown/recipes/chicken-noodle-soup.html</guid>
         
-        <category>mains,</category>
+        <category>dinner,</category>
         
-        <category>meat</category>
+        <category>soup,</category>
+        
+        <category>mealprep</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Chicken Taquitos</title>
+        <description>&lt;p&gt;From &lt;a href=&quot;https://bellyfull.net/2012/01/31/baked-chicken-taquitos/&quot;&gt;Belly Full&lt;/a&gt;. These freeze great. Make a batch and freeze the extras before baking and bake the rest from frozen later!&lt;/p&gt;
+</description>
+        <link>http://localhost:4000/chowdown/recipes/chicken-taquitos.html</link>
+        <guid isPermaLink="true">http://localhost:4000/chowdown/recipes/chicken-taquitos.html</guid>
+        
+        <category>dinner,</category>
+        
+        <category>mealprep</category>
         
         
       </item>

@@ -1,137 +1,576 @@
 [
   
     {
-    
+	    "title"    : "Apple Brie Salad",
+
+		  
+		    "tags" : "dinner, salad, ",
+		  
+
+		  
+		    "ingredients" : "1 bag 5-6 oz. mixed greens, 4 oz. brie cheese cut in 1 inch pieces, 1 large apple cut in 1 inch pieces, ½ cups pecans, ½ cups dried cranberries, 4 green onions chopped, ",
+		  
+
+      "image"	   : "apple-brie-salad.jpg",
+      "url"      : "/chowdown/recipes/apple-brie-salad.html"
+      
+    } ,
+  
+    {
+	    "title"    : "Apple Crisp",
+
+		  
+		    "tags" : "dessert,, baking, ",
+		  
+
+		  
+		    "ingredients" : "4 apples, cored, quartered and sliced, (or 8 apples if making without pears), 4 ripe pears, cored and sliced (optional), 4 tablespoons sugar, 2 teaspoon cinnamon, Pinch salt, 2 cup uncooked oats (not instant), 1 cup all-purpose flour, 1 cup light brown sugar, 1 cup salted butter, ",
+		  
+
+      "image"	   : "apple-crisp.jpg",
+      "url"      : "/chowdown/recipes/apple-crisp.html"
+      
+    } ,
+  
+    {
+	    "title"    : "Baked Brie with Apples and Salted Caramel",
+
+		  
+		    "tags" : "dessert, ",
+		  
+
+		  
+		    "ingredients" : "8 ounce wheel of brie, 1 tablespoon butter, 1 large apple chopped, 2 tablespoons brown sugar, 3 tablespoons salted caramel sauce, Stacy&#39;s Salted Caramel pita chips or crackers for serving, ",
+		  
+
+      "image"	   : "baked-brie-with-apples-and-salted-caramel.jpg",
+      "url"      : "/chowdown/recipes/baked-brie-with-apples-and-salted-caramel.html"
+      
+    } ,
+  
+    {
 	    "title"    : "Banana Bread",
-		"ingredients"    : "4 bananas, 1/2 cup butter, 1/2 cup sugar, 2 eggs, 2 cups flour, 1/2 tsp baking soda, 1 tsp baking powder, pinch salt, 1/4 cup nuts (we like pecans), ",
-		"image"	   : "banana-bread.jpg",
-	    "url"      : "/recipes/banana-bread.html"
+
+		  
+		    "tags" : "breakfast,, baking, ",
+		  
+
+		  
+		    "ingredients" : "4 bananas, 1/2 cup butter, 1/2 cup sugar, 2 eggs, 2 cups flour, 1/2 tsp baking soda, 1 tsp baking powder, pinch salt, 1/4 cup nuts (we like pecans), ",
+		  
+
+      "image"	   : "banana-bread.jpg",
+      "url"      : "/chowdown/recipes/banana-bread.html"
       
     } ,
   
     {
-    
-	    "title"    : "Broccoli Beer Cheese Soup",
-		"ingredients"    : "4 tablespoons butter, 1 cup diced onion, 1/2 cup shredded carrot, 1/2 cup diced celery, 1 tablespoon garlic, 1/4 cup flour, 1 quart chicken broth, 1 cup heavy cream, 10 ounces muenster cheese, 1 cup white white wine, 1 cup pale beer, 1 teaspoon Worcestershire sauce, 1/2 teaspoon hot sauce, ",
-		"image"	   : "broccoli-beer-cheese-soup.jpg",
-	    "url"      : "/recipes/broccoli-cheese-soup.html"
+	    "title"    : "Broccoli Cheddar Soup",
+
+		  
+		    "tags" : "dinner, ",
+		  
+
+		  
+		    "ingredients" : "6 tbsp butter unsalted, 1 onion chopped, 6 tbsp all-purpose flour, 2 cups half and half cream, 6 cups chicken broth low sodium, 1 tsp salt, 1 tsp white pepper, ¼ tsp nutmeg, 1 head broccoli florets about 1 lb, 1 cup Velveeta cubed, 3 cups cheddar cheese shredded, 2 tbsp parsley chopped, ",
+		  
+
+      "image"	   : "broccoli-cheddar-soup.jpg",
+      "url"      : "/chowdown/recipes/broccoli-cheddar-soup.html"
       
     } ,
   
     {
-    
-	    "title"    : "Crockpot Buffalo Chicken",
-		"ingredients"    : "6-8 chicken breasts, 1 packet ranch mix, 1 bottle Frank's Red Hot, 1 stick of butter, ",
-		"image"	   : "crockpot-buffalo-chicken.jpg",
-	    "url"      : "/recipes/crockpot-buffalo-chicken.html"
+	    "title"    : "Crispy Carnitas Pork Tacos",
+
+		  
+		    "tags" : "dinner,, instapot,, mealprep, ",
+		  
+
+		  
+		    "ingredients" : "1 (7-8 pound) lean boneless pork roast, cut into 2-inch chunks (with excess fat trimmed off) fine sea salt and freshly-cracked black pepper, 1 tablespoon avocado oil or olive oil, 1 batch mojo sauce, ",
+		  
+
+      "image"	   : "carnitas-pork-tacos.jpg",
+      "url"      : "/chowdown/recipes/carnitas-pork-tacos.html"
       
     } ,
   
     {
-    
-	    "title"    : "Downtown Marinade",
-		"ingredients"    : "1 cup Italian dressing, 1/4 cup soy sauce, 1/4 cup chili paste (like [sambal oelek](https://amzn.to/2NuqquF)), 1/4 sugar, dash hot sauce (like Texas Champagne or Yellowbird), ",
-		"image"	   : "downtown-marinade.jpg",
-	    "url"      : "/recipes/downtown-chowdown-marinade.html"
+	    "title"    : "Cheesy Garlic Biscuits",
+
+		  
+		    "tags" : "sides, ",
+		  
+
+		  
+		    "ingredients" : "½ cup butter, divided, 2 cups all-purpose flour, 1 tbsp. granulated sugar, 1 tbsp. baking powder, 1 tbsp. garlic powder, 2 tsp. kosher salt, divided, 1 cup whole milk, 2 cups mild cheddar cheese, ½ teaspoon dried parsley, ",
+		  
+
+      "image"	   : "cheesy-garlic-biscuits.jpg",
+      "url"      : "/chowdown/recipes/cheesy-garlic-biscuits.html"
       
     } ,
   
     {
-    
-	    "title"    : "Green Chile Stew",
-		"ingredients"    : "1 jar of [green chile stew mix](http://amzn.to/1KYXSjo), 1lb ground chicken, 1 red onion, 1 green onion, 1 can corn, ",
-		"image"	   : "green-chile-stew.jpg",
-	    "url"      : "/recipes/green-chile-stew.html"
+	    "title"    : "Chicken Fajitas",
+
+		  
+		    "tags" : "dinner, ",
+		  
+
+		  
+		    "ingredients" : "1 lb chicken breast, boneless, skinless, 1 large onion (or 2 smaller ones), 1 red bell pepper, 1 green bell pepper, 1 tbsp olive oil, 2 ½ tbsp fajita seasoning, 1 jalapeño optional, 8 medium tortillas, salsa optional, sour cream optional, ",
+		  
+
+      "image"	   : "chicken-fajitas.jpg",
+      "url"      : "/chowdown/recipes/chicken-fajitas.html"
       
     } ,
   
     {
-    
-	    "title"    : "Mongolian Beef",
-		"ingredients"    : "vegetable oil, 1⁄2 teaspoon ginger, 1 tablespoon garlic, 1⁄2 cup soy sauce, 1⁄2 cup water, 3⁄4 cup dark brown sugar, 1 lb flank steak, 1 yellow onion, 2 large green onions, ",
-		"image"	   : "mongolian-beef.jpg",
-	    "url"      : "/recipes/mongolian-beef.html"
+	    "title"    : "Chicken Noodle Soup",
+
+		  
+		    "tags" : "dinner,, soup,, mealprep, ",
+		  
+
+		  
+		    "ingredients" : "1 Tablespoon butter, ½ Cup chopped onion, ½ Cup chopped celery, 1 Cup sliced carrots, Four 14.5 ounce cans chicken broth, One 14.5 ounce can vegetable broth, ½ Pound chopped cooked chicken (rotisserie chicken), 1 ½ Cup egg noodles, ½ Teaspoon dried basil, ½ Teaspoon dried oregano, salt and pepper to taste, ",
+		  
+
+      "image"	   : "chicken-noodle-soup.jpg",
+      "url"      : "/chowdown/recipes/chicken-noodle-soup.html"
       
     } ,
   
     {
-    
-	    "title"    : "New York Strip",
-		"ingredients"    : "NY Strip Steak(s), salt to taste, ",
-		"image"	   : "new-york-strip.jpg",
-	    "url"      : "/recipes/new-york-strip.html"
+	    "title"    : "Chicken Taquitos",
+
+		  
+		    "tags" : "dinner,, mealprep, ",
+		  
+
+		  
+		    "ingredients" : "3 ounces cream cheese, softened, ¼ cup salsa (red or green), 1 tablespoon lime juice, ½ teaspoon cumin, ½ teaspoon chili powder, ½ teaspoon onion powder, 2 cloves garlic, minced, 3 tablespoons chopped cilantro or parsley, 2 small scallions, diced, 2 cups shredded cooked chicken, 1 cup pepperjack cheese, 12 6-inch flour tortillas, cooking spray, kosher salt, ",
+		  
+
+      "image"	   : "chicken-taquitos.jpg",
+      "url"      : "/chowdown/recipes/chicken-taquitos.html"
       
     } ,
   
     {
-    
-	    "title"    : "Nilla Wafer French Toast",
-		"ingredients"    : "4 eggs, 1/4 cup heavy cream, 2 tsp vanilla, sprinkle of sugar, 4 cups Nilla Wafers Minis, ",
-		"image"	   : "nilla-wafer.jpg",
-	    "url"      : "/recipes/nilla-wafer-french-toast.html"
+	    "title"    : "Chicken or Veggie Pot Pie",
+
+		  
+		    "tags" : "dinner, mealprep, ",
+		  
+
+		  
+		    "ingredients" : "⅓ Cup butter, ⅓ Cup chopped Onion, ⅓ Cup flour, ½ Teaspoon salt, ¼ Teaspoon pepper, 1 ½ Cup Chicken Broth, ⅔ Cup milk, 2-3 Cup cooked turkey or chicken, 2-3 Cup mixed vegetables (potatoes, carrots, peas, corn, celery and broccoli), Pillsbury pie crust (or your homemade pie crust), ",
+		  
+
+      "image"	   : "chicken-vegetable-pot-pie.jpg",
+      "url"      : "/chowdown/recipes/chicken-vegetable-pot-pie.html"
       
     } ,
   
     {
-    
-	    "title"    : "One Minute Muffin",
-		"ingredients"    : "1⁄4 cup flax seed meal, 1⁄2 teaspoon baking powder, 1 teaspoon cinnamon, 1 egg, 1 teaspoon oil, sugar to taste (or honey, stevia), ",
-		"image"	   : "one-minute-muffin.jpg",
-	    "url"      : "/recipes/one-minute-muffin.html"
+	    "title"    : "Chocolate Chip Cookies",
+
+		  
+		    "tags" : "dessert, ",
+		  
+
+		  
+		    "ingredients" : "⅓  Cup shortening, ⅓  Cup butter, ½ Cup sugar, ½ Cup brown sugar, 1 egg, 1 Teaspoon vanilla, 1 ½ Cups flour, ½ Teaspoon baking soda, ½ Teaspoon salt, ½ Bag chocolate chips, ½ Cup nuts (optional), ",
+		  
+
+      "image"	   : "chocolate-chip-cookies.jpg",
+      "url"      : "/chowdown/recipes/chocolate-chip-cookies.html"
       
     } ,
   
     {
-    
-	    "title"    : "Pork Steaks",
-		"ingredients"    : "pork shoulder (or other cheap cut), immerison circulator (we like the [Anova](http://www.amazon.com/gp/product/B00UKPBXM4/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00UKPBXM4&linkCode=as2&tag=repl-20&linkId=XMRXWQ35OJNCZVGE)), ",
-		"image"	   : "pork-steaks.jpg",
-	    "url"      : "/recipes/pork-steaks.html"
+	    "title"    : "Cinnamon Roasted Butternut Squash",
+
+		  
+		    "tags" : "side, ",
+		  
+
+		  
+		    "ingredients" : "1 butternut squash, peeled, seeded and cut into 1-inch cubes, 2 tablespoons olive oil, 2 tablespoons brown sugar, ½ teaspoon ground cinnamon, 1 teaspoon kosher salt, Dash of cayenne (optional), ",
+		  
+
+      "image"	   : "cinnamon-roasted-butternut-squash.jpg",
+      "url"      : "/chowdown/recipes/cinnamon-roasted-butternut-squash.html"
       
     } ,
   
     {
-    
-	    "title"    : "Red Berry Tart",
-		
-		"image"	   : "red-berry-tart.jpg",
-	    "url"      : "/recipes/red-berry-tart.html"
+	    "title"    : "Cinnamon Rolls",
+
+		  
+		    "tags" : "dessert, ",
+		  
+
+		  
+		    "ingredients" : "Dough, Filling, Frosting, ",
+		  
+
+      "image"	   : "cinnamon-rolls.jpg",
+      "url"      : "/chowdown/recipes/cinnamon-rolls.html"
       
     } ,
   
     {
-    
-	    "title"    : "Roasted Brussels Sprouts",
-		"ingredients"    : "1 bunch of brussels, sliced thin, 2 tbsp olive oil, (optional) grated hard cheese, (optional) gold raisins or sweetened cranberries, (optional) assorted veggies, sliced thin, salt, pepper, etc to taste, ",
-		"image"	   : "roasted-brussels-sprouts.jpg",
-	    "url"      : "/recipes/roasted-brussels-sprouts.html"
+	    "title"    : "Cranberry Pecan Pumpkin Bread",
+
+		  
+		    "tags" : "dessert, bread, ",
+		  
+
+		  
+		    "ingredients" : "3 cups all purpose flour, 1 tsp salt, 1 tsp baking powder, 1 tsp baking soda, 4 tsp pumpkin pie spice, 2 cups canned pumpkin (not pumpkin pie filling), ⅔ cup brown sugar, ⅔ cup granulated sugar, 1 cup applesauce OR canola oil, 3 eggs room temperature, 1 tbsp vanilla extract, 1 cup dried cranberries, 1 cup chopped pecans toasted, ",
+		  
+
+      "image"	   : "cranberry-pecan-pumpkin-bread.jpg",
+      "url"      : "/chowdown/recipes/cranberry-pecan-pumpkin-bread.html"
       
     } ,
   
     {
-    
-	    "title"    : "Roasted Okra",
-		"ingredients"    : "1 bunch of okra, salt, pepper, etc to taste, ",
-		"image"	   : "roasted-okra.jpg",
-	    "url"      : "/recipes/roasted-okra.html"
+	    "title"    : "Crepes",
+
+		  
+		    "tags" : "breakfast, ",
+		  
+
+		  
+		    "ingredients" : "1 cup flour, 2 eggs, ½ cup milk, ½ cup water, ½ teaspoon salt, &lt;2 tablespoons melted butter, ",
+		  
+
+      "image"	   : "crepes.jpg",
+      "url"      : "/chowdown/recipes/crepes.html"
       
     } ,
   
     {
-    
-	    "title"    : "Smashed Carrots",
-		"ingredients"    : "1 can carrots, 1 tbsp butter, 2 tbsp parmesan cheese, salt & pepper to taste, ",
-		"image"	   : "smashed-carrots.jpg",
-	    "url"      : "/recipes/smashed-carrots.html"
+	    "title"    : "Fish Tacos",
+
+		  
+		    "tags" : "dinner, ",
+		  
+
+		  
+		    "ingredients" : "3 fillets of tilapia or cod/haddock, 1 tablespoon olive oil, ",
+		  
+
+      "image"	   : "fish-tacos.jpg",
+      "url"      : "/chowdown/recipes/fish-tacos.html"
       
     } ,
   
     {
-    
-	    "title"    : "Stuffed Peppers",
-		"ingredients"    : "1 jar Peppedew Peppers (or piquante pepper), 4oz goat cheese (any flavor), 1 tbsp mayonnaise, 1 tbsp sour cream, 1 bunch of chives, chopped, hearty shot of hot sauce (Franks, Yellowbird), hearty crack of pepper, ",
-		"image"	   : "stuffed-peppers.jpg",
-	    "url"      : "/recipes/stuffed-peppers.html"
+	    "title"    : "Fried Rice",
+
+		  
+		    "tags" : "dinner, ",
+		  
+
+		  
+		    "ingredients" : "3 tablespoons butter, divided, 2 eggs, whisked, 2 medium carrots, peeled and diced, ½ cup frozen peas, 1 small white onion, diced, 3 cloves garlic, minced, salt and pepper, 4 cups rice, cooked and chilled, 3 green onions, thinly sliced, 3-4 tbsp soy sauce, or more to taste, 2 tbsp oyster sauce (optional), ½ tsp toasted sesame oil, ",
+		  
+
+      "image"	   : "fried-rice.jpg",
+      "url"      : "/chowdown/recipes/fried-rice.html"
+      
+    } ,
+  
+    {
+	    "title"    : "Garlic Parmesan Salmon",
+
+		  
+		    "tags" : "dinner, ",
+		  
+
+		  
+		    "ingredients" : "2 pounds side wild salmon fillet, ⅔ cup plain breadcrumbs, ⅔ cup grated parmesan cheese, ¼ cup finely chopped parsley, 4 cloves garlic , minced, ⅓ cup melted butter, Salt and pepper, Lemon wedges, to serve, ",
+		  
+
+      "image"	   : "garlic-parmesan-salmon.jpg",
+      "url"      : "/chowdown/recipes/garlic-parmesan-salmon.html"
+      
+    } ,
+  
+    {
+	    "title"    : "Garlic Rosemary Pork Tenderloin",
+
+		  
+		    "tags" : "dinner, ",
+		  
+
+		  
+		    "ingredients" : "1 lb pork tenderloin, 1 tbsp olive oil, 2 tsp dried rosemary, 1 tsp minced garlic, ½ tsp sea salt, ¼ tsp black pepper, Additional 1 tbsp olive oil if sautéing in pan, ",
+		  
+
+      "image"	   : "garlic-rosemary-pork-tenderloin.jpg",
+      "url"      : "/chowdown/recipes/garlic-rosemary-pork-tenderloin.html"
+      
+    } ,
+  
+    {
+	    "title"    : "Italian Sausage and Peppers Pasta",
+
+		  
+		    "tags" : "dinner, ",
+		  
+
+		  
+		    "ingredients" : "1 lb. pasta, 1 lb. Sweet Italian Sausage, 1 small onion diced, 2 cloves garlic minced, ½ green bell pepper diced, ½ yellow bell pepper diced, 1 jar marinara sauce, 1 cup water, ½ teaspoon oregano, 1 teaspoon basil, 1 ½ cups broccoli florets ( optional ), Parmesan cheese for garnish ( optional ), ",
+		  
+
+      "image"	   : "italian-sausage-and-peppers-pasta.jpg",
+      "url"      : "/chowdown/recipes/italian-sausage-pasta.html"
+      
+    } ,
+  
+    {
+	    "title"    : "Lemon Cookies",
+
+		  
+		    "tags" : "dessert, cookies, ",
+		  
+
+		  
+		    "ingredients" : "15 oz package lemon cake mix with pudding in the mix, 2 cups Cool Whip, 1 egg lightly beaten, 1 tbsp lemon zest, 2 tbsp lemon juice, ½ cup powdered sugar, ",
+		  
+
+      "image"	   : "lemon-cookies.jpg",
+      "url"      : "/chowdown/recipes/lemon-cookies.html"
+      
+    } ,
+  
+    {
+	    "title"    : "Lemon Shrimp Linguine",
+
+		  
+		    "tags" : "dinner, ",
+		  
+
+		  
+		    "ingredients" : "1 box of linguine noodles, 1 Tablespoon Olive Oil, 6 Cloves minced Garlic, ½ Cup Chicken Broth, ¼ Cup white wine, 1 juiced lemon, ½ Teaspoon lemon zest, Salt to taste, 2 Teaspoon ground black pepper, 1 Pound peeled and deveined shrimp, ¼ Cup butter, 3 Tablespoon chopped fresh parsley, 1 Tablespoon chopped fresh Basil, ",
+		  
+
+      "image"	   : "lemon-shrimp-linguine.jpg",
+      "url"      : "/chowdown/recipes/lemon_shrimp_linguine.html"
+      
+    } ,
+  
+    {
+	    "title"    : "Mashed Potatoes",
+
+		  
+		    "tags" : "side, ",
+		  
+
+		  
+		    "ingredients" : "2 pounds peeled Russet potatoes, quartered, 3 cups water, ½ tsp kosher salt, ⅓  cup low-fat 1% buttermilk, ¼ cup light sour cream (I prefer Breakstone’s), 2 tbsp whipped butter, 1 tsp kosher salt, fresh black pepper, to taste, chopped chives or parsley, for garnish, ",
+		  
+
+      "image"	   : "mashed-potatoes.jpg",
+      "url"      : "/chowdown/recipes/mashed-potatoes.html"
+      
+    } ,
+  
+    {
+	    "title"    : "Peanut Butter Balls",
+
+		  
+		    "tags" : "dessert, ",
+		  
+
+		  
+		    "ingredients" : "1 ½ cups creamy peanut butter, 1 stick butter ( softened ), 1 tbs vanilla, 2 ½ cups powdered sugar, 1 bag of chocolate chips, ",
+		  
+
+      "image"	   : "peanut-butter-balls.jpg",
+      "url"      : "/chowdown/recipes/peanut-butter-balls.html"
+      
+    } ,
+  
+    {
+	    "title"    : "Pizza Dough",
+
+		  
+		    "tags" : "mealprep, ",
+		  
+
+		  
+		    "ingredients" : "1 ½ Cup very warm water, 1 Tablespoon sugar, 1 Tablespoon yeast, ½ Teaspoon salt, 2 Tablespoon Olive Oil, 4 Cups of flour, ",
+		  
+
+      "image"	   : "pizza-dough.jpg",
+      "url"      : "/chowdown/recipes/pizza-dough.html"
+      
+    } ,
+  
+    {
+	    "title"    : "Ramen Noodle Stir Fry",
+
+		  
+		    "tags" : "dinner, ",
+		  
+
+		  
+		    "ingredients" : "1 lb ground beef, 2 packages ramen noodle (Oriental), 2 cups frozen vegetables, ¼ teaspoon ground/powdered ginger, ",
+		  
+
+      "image"	   : "ramen-noodle-stir-fry.jpg",
+      "url"      : "/chowdown/recipes/ramen-noodle-stir-fry.html"
+      
+    } ,
+  
+    {
+	    "title"    : "Roasted Potatoes and Spinach",
+
+		  
+		    "tags" : "side, ",
+		  
+
+		  
+		    "ingredients" : "6 small red potatoes, quartered, 2 tbsp butter, 2 cloves garlic, minced, 1 tbsp fresh rosemary, chopped, sea salt, ground black pepper, 2 cups fresh spinach leaves, ",
+		  
+
+      "image"	   : "roasted-potatoes-and-spinach.jpg",
+      "url"      : "/chowdown/recipes/roasted-potatoes-and-spinach.mf"
+      
+    } ,
+  
+    {
+	    "title"    : "Rolls",
+
+		  
+		    "tags" : "side, ",
+		  
+
+		  
+		    "ingredients" : "2 Tablespoon yeast, ¼ Cup very warm water, ½ Cup shortening, ½ Cup sugar, 3 Eggs, 1 Cup warm water, 2 Teaspoons salt, 4 ½ Cups flour, ",
+		  
+
+      "image"	   : "rolls.jpg",
+      "url"      : "/chowdown/recipes/rolls.html"
+      
+    } ,
+  
+    {
+	    "title"    : "Russian Tea Cookies",
+
+		  
+		    "tags" : "dessert, ",
+		  
+
+		  
+		    "ingredients" : "1 cup butter softened, 1/2 cup powered sugar, 1 tsp vanilla, 2 1/4 cups flour, 1/4 tsp salt, 3/4 cup chopped nuts, ",
+		  
+
+      "image"	   : "russian-tea-cookies.jpg",
+      "url"      : "/chowdown/recipes/russian-tea-cookies.html"
+      
+    } ,
+  
+    {
+	    "title"    : "Slow Cook Mac&#39;n Cheese",
+
+		  
+		    "tags" : "dinner,, mealprep,, slowcook,, instapot, ",
+		  
+
+		  
+		    "ingredients" : "2 Cups uncooked elbow macaroni, 4 Tablespoon butter, 2 ½ Cup about 10 ounces grated sharp cheddar cheese, 3 beaten eggs, ½ Cup sour cream, 10 ¾ Ounces Canned condensed cheddar cheese soup, ½ Teaspoon salt, 1 Cup milk, ½ Teaspoon dry mustard, ½ Teaspoon black pepper, ",
+		  
+
+      "image"	   : "slow-cook-mac-n-cheese.jpg",
+      "url"      : "/chowdown/recipes/slow-cook-mac-n-cheese.html"
+      
+    } ,
+  
+    {
+	    "title"    : "Sun Dried Tomato Parmesan Chicken",
+
+		  
+		    "tags" : "dinner, ",
+		  
+
+		  
+		    "ingredients" : "-- For The Chicken --, 2 large boneless and skinless chicken breasts , halved horizontally to make 4 fillets, 2 tablespoons Tapioca flour (or all purpose or plain flour/s), 2 tablespoons finely grated fresh Parmesan cheese (do not include for dairy free option), 1 teaspoon salt, Cracked pepper, -- For The Sauce --, 2 tablespoons reserved sun dried tomato oil (or olive oil), 2 tablespoons minced garlic, 200 g | 7oz jarred sun dried tomato strips in oil, drained (reserve 2 tablespoons of oil for cooking), 1 cup sliced mushrooms (250 g | 8 oz), 1 1/2 cups evaporated milk (reduced fat or full fat milk), 1 tablespoon cornstarch (cornflour) mixed with 2 tablespoons of milk, ⅓ cup fresh grated Parmesan cheese (do not include for dairy free option), 2 teaspoons Italian herbs (optional for added flavor), 2 tablespoons fresh shredded basil, to serve, ",
+		  
+
+      "image"	   : "sun-dried-tomato-parmesan-chicken.jpg",
+      "url"      : "/chowdown/recipes/sun-dried-tomato-parmesan-chicken.html"
+      
+    } ,
+  
+    {
+	    "title"    : "Sweet Potato Tacos",
+
+		  
+		    "tags" : "dinner, mealprep, ",
+		  
+
+		  
+		    "ingredients" : "1 teaspoon cumin, ½ teaspoon chili powder, ½ teaspoon garlic powder, ½ teaspoon cayenne pepper or red pepper flakes, 2 medium sweet potatoes, 1 can black beans, 1 tablespoon cilantro, dried or fresh, 1 cup corn (frozen or fresh), 1 cup peas (frozen or fresh), ½ cup diced onion (white, yellow, or red), grated cheese, salt and pepper to taste, olive oil, salsa, guacamole, and sour cream for dipping, Tortillas, 1 block cream cheese, ",
+		  
+
+      "image"	   : "sweet-potato-tacos.jpg",
+      "url"      : "/chowdown/recipes/sweet-potato-tacos.html"
+      
+    } ,
+  
+    {
+	    "title"    : "",
+
+		  
+		    "tags" : "",
+		  
+
+		  
+
+      "image"	   : "",
+      "url"      : "/chowdown/recipes/template.html"
+      
+    } ,
+  
+    {
+	    "title"    : "Tuscan Chicken Mac&#39;n Cheese",
+
+		  
+		    "tags" : "dinner, ",
+		  
+
+		  
+		    "ingredients" : "2 large skinless boneless chicken breasts pounded to 1-inch thickness (or 4 boneless and skinless chicken thigh fillets), Salt and pepper, to season, ½ teaspoon paprika (sweet or smokey), ½ teaspoon dried parsley, 1 tablespoon oil, divided (use olive or canola oil), 2 tablespoons butter, 1 small yellow onion chopped, 6 cloves garlic finely diced, ⅓ cup white wine OPTIONAL (use chicken broth instead if you wish), 9 oz (250g) jarred sun dried tomato strips in oil (reserve 2 tablespoons of oil and drain the rest), 3 level tablespoons flour, 2 cups chicken broth, 3 cups milk OR light cream or half and half, divided, 2 teaspoons dried Italian herbs, 3 cups (10 oz) elbow macaroni uncooked, 3 cups baby spinach leaves, 1 cup fresh grated Parmesan cheese, ¾ cup mozzarella cheese shredded, ½ cup grated cheese Cheddar or Gruyere, 2 tablespoons fresh parsley chopped, ",
+		  
+
+      "image"	   : "tuscan-chicken-mac-n-cheese.jpg",
+      "url"      : "/chowdown/recipes/tuscan-chicken-mac-n-cheese.html"
+      
+    } ,
+  
+    {
+	    "title"    : "White Bean Chicken Chili",
+
+		  
+		    "tags" : "mealprep, dinner, soup, ",
+		  
+
+		  
+		    "ingredients" : "2 Tablespoon vegetable oil, 1 medium copped white onion, 1 chopped green chili, 4 cans white great northern beans, 2 cartons chicken broth, 1 cup water, 1 rotisserie chicken, 2 tsp salt, 2 tsp garlic powder, 2 tsp oregano, 1 1/2 tsp ground cumin, 1 1/2 tsp coriander, 1/2 tsp cayenne pepper, ",
+		  
+
+      "image"	   : "white-bean-chicken-chili.jpg",
+      "url"      : "/chowdown/recipes/white-bean-chicken-chili.html"
       
     } 
   
