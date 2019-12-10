@@ -552,7 +552,6 @@ h6, .h6 { font-size: .75rem }
   clip: rect(4px, 4px, 4px, 4px);
 }
 
-
 .relative { position: relative }
 .absolute { position: absolute }
 .fixed    { position: fixed }
