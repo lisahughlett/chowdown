@@ -17,3 +17,5 @@ collections:
     output: true
 
 exclude: ['Gemfile', 'Gemfile.lock', 'Rakefile', 'README.md']
+
+theme: jekyll-theme-slate
