@@ -11,15 +11,15 @@ recipeYield: 6 servings
 
 ingredients:
 - 1 teaspoon cumin
-- ½ teaspoon chili powder
-- ½ teaspoon garlic powder
-- ½ teaspoon cayenne pepper or red pepper flakes
+- 1/2 teaspoon chili powder
+- 1/2 teaspoon garlic powder
+- 1/2 teaspoon cayenne pepper or red pepper flakes
 - 2 medium sweet potatoes 
 - 1 can black beans
 - 1 tablespoon cilantro, dried or fresh
 - 1 cup corn (frozen or fresh)
 - 1 cup peas (frozen or fresh)
-- ½ cup diced onion (white, yellow, or red)
+- 1/2 cup diced onion (white, yellow, or red)
 - grated cheese
 - salt and pepper to taste
 - olive oil

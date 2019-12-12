@@ -10,13 +10,13 @@ tags: dinner mealprep
 recipeYield: 6 servings
 
 ingredients:
-- ⅓ Cup butter
-- ⅓ Cup chopped Onion
-- ⅓ Cup flour
-- ½ Teaspoon salt
-- ¼ Teaspoon pepper
-- 1 ½ Cup Chicken Broth
-- ⅔ Cup milk
+- 1/2 Cup butter
+- 1/2 Cup chopped Onion
+- 1/2 Cup flour
+- 1/2 Teaspoon salt
+- 1/4 Teaspoon pepper
+- 1 1/2 Cup Chicken Broth
+- 2/3 Cup milk
 - 2-3 Cup cooked turkey or chicken
 - 2-3 Cup mixed vegetables (potatoes, carrots, peas, corn, celery and broccoli)
 - Pillsbury pie crust (or your homemade pie crust)

@@ -12,9 +12,9 @@ recipeYield: 8 crepes
 ingredients:
 - 1 cup flour
 - 2 eggs
-- ½ cup milk
-- ½ cup water 
-- ½ teaspoon salt
+- 1/2 cup milk
+- 1/2 cup water 
+- 1/2 teaspoon salt
 - <2 tablespoons melted butter
 
 directions:

@@ -10,17 +10,17 @@ tags: dessert
 recipeYield: 2 dozen
 
 ingredients:
-- ⅓  Cup shortening
-- ⅓  Cup butter
-- ½ Cup sugar
-- ½ Cup brown sugar
+- 1/2  Cup shortening
+- 1/2  Cup butter
+- 1/2 Cup sugar
+- 1/2 Cup brown sugar
 - 1 egg
 - 1 Teaspoon vanilla
-- 1 ½ Cups flour
-- ½ Teaspoon baking soda
-- ½ Teaspoon salt
-- ½ Bag chocolate chips
-- ½ Cup nuts (optional)
+- 1 1/2 Cups flour
+- 1/2 Teaspoon baking soda
+- 1/2 Teaspoon salt
+- 1/2 Bag chocolate chips
+- 1/2 Cup nuts (optional)
 
 directions:
 - Preheat oven to 375

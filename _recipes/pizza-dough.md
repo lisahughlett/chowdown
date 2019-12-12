@@ -10,10 +10,10 @@ tags: mealprep
 recipeYield: 2
 
 ingredients:
-- 1 ½ Cup very warm water
+- 1 1/2 Cup very warm water
 - 1 Tablespoon sugar
 - 1 Tablespoon yeast
-- ½ Teaspoon salt
+- 1/2 Teaspoon salt
 - 2 Tablespoon Olive Oil
 - 4 Cups of flour
 

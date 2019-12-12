@@ -23,7 +23,7 @@ ingredients:
 - 1 cup sliced mushrooms (250 g | 8 oz)
 - 1 1/2 cups evaporated milk (reduced fat or full fat milk)
 - 1 tablespoon cornstarch (cornflour) mixed with 2 tablespoons of milk
-- ⅓ cup fresh grated Parmesan cheese (do not include for dairy free option)
+- 1/2 cup fresh grated Parmesan cheese (do not include for dairy free option)
 - 2 teaspoons Italian herbs (optional for added flavor)
 - 2 tablespoons fresh shredded basil, to serve
 

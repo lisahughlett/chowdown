@@ -11,11 +11,11 @@ recipeYield: 2+ servings depending on fillet size
 
 ingredients:
 - 2 pounds side wild salmon fillet
-- ⅔ cup plain breadcrumbs
-- ⅔ cup grated parmesan cheese
-- ¼ cup finely chopped parsley
+- 2/3 cup plain breadcrumbs
+- 2/3 cup grated parmesan cheese
+- 1/4 cup finely chopped parsley
 - 4 cloves garlic , minced
-- ⅓ cup melted butter
+- 1/2 cup melted butter
 - Salt and pepper
 - Lemon wedges, to serve
 

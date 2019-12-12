@@ -12,13 +12,13 @@ recipeYield: 6 servings
 ingredients:
 - 2 large skinless boneless chicken breasts pounded to 1-inch thickness (or 4 boneless and skinless chicken thigh fillets)
 - Salt and pepper, to season
-- ½ teaspoon paprika (sweet or smokey)
-- ½ teaspoon dried parsley
+- 1/2 teaspoon paprika (sweet or smokey)
+- 1/2 teaspoon dried parsley
 - 1 tablespoon oil, divided (use olive or canola oil)
 - 2 tablespoons butter
 - 1 small yellow onion chopped
 - 6 cloves garlic finely diced
-- ⅓ cup white wine OPTIONAL (use chicken broth instead if you wish)
+- 1/2 cup white wine OPTIONAL (use chicken broth instead if you wish)
 - 9 oz (250g) jarred sun dried tomato strips in oil (reserve 2 tablespoons of oil and drain the rest)
 - 3 level tablespoons flour
 - 2 cups chicken broth
@@ -27,8 +27,8 @@ ingredients:
 - 3 cups (10 oz) elbow macaroni uncooked
 - 3 cups baby spinach leaves
 - 1 cup fresh grated Parmesan cheese
-- ¾ cup mozzarella cheese shredded
-- ½ cup grated cheese Cheddar or Gruyere
+- 3/4 cup mozzarella cheese shredded
+- 1/2 cup grated cheese Cheddar or Gruyere
 - 2 tablespoons fresh parsley chopped
 
 directions:

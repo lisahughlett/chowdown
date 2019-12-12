@@ -11,15 +11,15 @@ recipeYield: 5 bowls
 
 ingredients:
 - 1 Tablespoon butter
-- ½ Cup chopped onion
-- ½ Cup chopped celery
+- 1/2 Cup chopped onion
+- 1/2 Cup chopped celery
 - 1 Cup sliced carrots
 - Four 14.5 ounce cans chicken broth
 - One 14.5 ounce can vegetable broth
-- ½ Pound chopped cooked chicken (rotisserie chicken)
-- 1 ½ Cup egg noodles
-- ½ Teaspoon dried basil
-- ½ Teaspoon dried oregano
+- 1/2 Pound chopped cooked chicken (rotisserie chicken)
+- 1 1/2 Cup egg noodles
+- 1/2 Teaspoon dried basil
+- 1/2 Teaspoon dried oregano
 - salt and pepper to taste
 
 directions:

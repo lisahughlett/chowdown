@@ -14,13 +14,13 @@ ingredients:
 - 1 lb. Sweet Italian Sausage
 - 1 small onion diced
 - 2 cloves garlic minced
-- ½ green bell pepper diced
-- ½ yellow bell pepper diced
+- 1/2 green bell pepper diced
+- 1/2 yellow bell pepper diced
 - 1 jar marinara sauce
 - 1 cup water
-- ½ teaspoon oregano
+- 1/2 teaspoon oregano
 - 1 teaspoon basil
-- 1 ½ cups broccoli florets ( optional )
+- 1 1/2 cups broccoli florets ( optional )
 - Parmesan cheese for garnish ( optional )
 
 directions:

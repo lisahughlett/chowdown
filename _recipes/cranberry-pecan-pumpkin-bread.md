@@ -16,8 +16,8 @@ ingredients:
 - 1 tsp baking soda
 - 4 tsp pumpkin pie spice
 - 2 cups canned pumpkin (not pumpkin pie filling)
-- ⅔ cup brown sugar
-- ⅔ cup granulated sugar
+- 2/3 cup brown sugar
+- 2/3 cup granulated sugar
 - 1 cup applesauce OR canola oil
 - 3 eggs room temperature
 - 1 tbsp vanilla extract

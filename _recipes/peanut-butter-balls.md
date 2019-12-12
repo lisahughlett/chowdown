@@ -10,10 +10,10 @@ tags: dessert
 recipeYield: 2 dozen
 
 ingredients:
-- 1 ½ cups creamy peanut butter
+- 1 1/2 cups creamy peanut butter
 - 1 stick butter ( softened )
 - 1 tbs vanilla
-- 2 ½ cups powdered sugar
+- 2 1/2 cups powdered sugar
 - 1 bag of chocolate chips
 
 directions:

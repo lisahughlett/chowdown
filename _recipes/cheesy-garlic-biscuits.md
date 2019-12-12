@@ -10,7 +10,7 @@ tags: sides
 recipeYield:
 
 ingredients:
-- ½ cup butter, divided
+- 1/2 cup butter, divided
 - 2 cups all-purpose flour
 - 1 tbsp. granulated sugar
 - 1 tbsp. baking powder
@@ -18,7 +18,7 @@ ingredients:
 - 2 tsp. kosher salt, divided
 - 1 cup whole milk
 - 2 cups mild cheddar cheese
-- ½ teaspoon dried parsley
+- 1/2 teaspoon dried parsley
 
 directions:
 - Preheat oven to 425°F.

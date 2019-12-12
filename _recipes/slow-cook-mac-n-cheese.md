@@ -12,14 +12,14 @@ recipeYield: 4 servings
 ingredients:
 - 2 Cups uncooked elbow macaroni
 - 4 Tablespoon butter
-- 2 ½ Cup about 10 ounces grated sharp cheddar cheese
+- 2 1/2 Cup about 10 ounces grated sharp cheddar cheese
 - 3 beaten eggs
-- ½ Cup sour cream
-- 10 ¾ Ounces Canned condensed cheddar cheese soup
-- ½ Teaspoon salt
+- 1/2 Cup sour cream
+- 10 3/4 Ounces Canned condensed cheddar cheese soup
+- 1/2 Teaspoon salt
 - 1 Cup milk
-- ½ Teaspoon dry mustard
-- ½ Teaspoon black pepper
+- 1/2 Teaspoon dry mustard
+- 1/2 Teaspoon black pepper
 
 directions:
 - Boil the macaroni in a 2 quart saucepan in plenty of water until tender, about 7 minutes. Drain

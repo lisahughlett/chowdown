@@ -13,7 +13,7 @@ ingredients:
 - 1 lb ground beef
 - 2 packages ramen noodle (Oriental)
 - 2 cups frozen vegetables
-- ¼ teaspoon ground/powdered ginger
+- 1/4 teaspoon ground/powdered ginger
 
 directions:
 - Cook ground beef until it is no longer pink

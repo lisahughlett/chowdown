@@ -15,7 +15,7 @@ ingredients:
 - 1 egg lightly beaten
 - 1 tbsp lemon zest
 - 2 tbsp lemon juice
-- ½ cup powdered sugar
+- 1/2 cup powdered sugar
 
 directions:
 - Preheat oven to 350F.

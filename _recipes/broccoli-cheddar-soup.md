@@ -17,7 +17,7 @@ ingredients:
 - 6 cups chicken broth low sodium
 - 1 tsp salt
 - 1 tsp white pepper
-- ¼ tsp nutmeg
+- 1/4 tsp nutmeg
 - 1 head broccoli florets about 1 lb
 - 1 cup Velveeta cubed
 - 3 cups cheddar cheese shredded

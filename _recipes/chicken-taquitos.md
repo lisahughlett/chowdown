@@ -9,11 +9,11 @@ tags: dinner, mealprep
 
 ingredients:
 - 3 ounces cream cheese, softened
-- ¼ cup salsa (red or green)
+- 1/4 cup salsa (red or green)
 - 1 tablespoon lime juice
-- ½ teaspoon cumin
-- ½ teaspoon chili powder
-- ½ teaspoon onion powder
+- 1/2 teaspoon cumin
+- 1/2 teaspoon chili powder
+- 1/2 teaspoon onion powder
 - 2 cloves garlic, minced
 - 3 tablespoons chopped cilantro or parsley
 - 2 small scallions, diced

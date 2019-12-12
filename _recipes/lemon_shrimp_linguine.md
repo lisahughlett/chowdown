@@ -13,14 +13,14 @@ ingredients:
 - 1 box of linguine noodles
 - 1 Tablespoon Olive Oil
 - 6 Cloves minced Garlic
-- ½ Cup Chicken Broth
-- ¼ Cup white wine
+- 1/2 Cup Chicken Broth
+- 1/4 Cup white wine
 - 1 juiced lemon
-- ½ Teaspoon lemon zest
+- 1/2 Teaspoon lemon zest
 - Salt to taste
 - 2 Teaspoon ground black pepper
 - 1 Pound peeled and deveined shrimp
-- ¼ Cup butter
+- 1/4 Cup butter
 - 3 Tablespoon chopped fresh parsley
 - 1 Tablespoon chopped fresh Basil
 
