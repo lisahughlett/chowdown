@@ -7,17 +7,29 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   <title>Banana Bread</title>
-  <meta name="description" content="From Angie’s mom">
+  <meta name="description"
+    content="From Angie’s mom">
 
   <link href="/chowdown/css/bass.css" rel="stylesheet">
   <link rel="stylesheet" href="/chowdown/css/main.css">
   <link rel="stylesheet" href="/chowdown/css/nav.css">
   <link rel="canonical" href="http://localhost:4000/chowdown/recipes/banana-bread.html">
-  <link rel="alternate" type="application/rss+xml" title="Chowdown" href="http://localhost:4000/chowdown/feed.xml" />
+  <link rel="alternate" type="application/rss+xml" title="Chowdown"
+    href="http://localhost:4000/chowdown/feed.xml" />
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+    integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+  <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+    integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+    crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
+    integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1"
+    crossorigin="anonymous"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
+    integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM"
+    crossorigin="anonymous"></script>
+  <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/hammer.js/2.0.8/hammer.min.js"></script>
   <script type="text/javascript" src="/chowdown/js/nav.js"></script>
-  <script type="text/javascript" src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
-  <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/hammer.js/2.0.4/hammer.min.js"></script>
-  
+
   <link rel="apple-touch-icon" sizes="180x180" href="/chowdown/icons/apple-touch-icon.png">
   <link rel="icon" type="image/png" sizes="32x32" href="/chowdown/icons/favicon-32x32.png">
   <link rel="icon" type="image/png" sizes="16x16" href="/chowdown/icons/favicon-16x16.png">
@@ -139,7 +151,7 @@
 
 <!-- call up the main recipe title and content -->
   <header class="post-header">
-    <h1 class="post-title center m1 sm-mt3" itemprop="name">Banana Bread</h1>
+    <h1 class="post-title center m1 sm-mt3" itemprop="name">Banana Bread <a href="#" id="edit">(Edit)</a></h1>
   </header>
 
   <div class="px2 mt3 clearfix">
@@ -197,16 +209,16 @@
       <h4 class="blue mt0 mb2 xs-center">Directions</h4>
       <ul itemprop="recipeInstructions">
         
-        <li><p>Beat the eggs, then cream with the butter and sugar</p>
+        <li itemprop="recipeInstruction"><p>Beat the eggs, then cream with the butter and sugar</p>
 </li>
         
-        <li><p>Mix in bananas, then flour, baking soda/powder, salt, and nuts</p>
+        <li itemprop="recipeInstruction"><p>Mix in bananas, then flour, baking soda/powder, salt, and nuts</p>
 </li>
         
-        <li><p>Add to greased and floured pan</p>
+        <li itemprop="recipeInstruction"><p>Add to greased and floured pan</p>
 </li>
         
-        <li><p>Bake until brown/cracked, toothpick comes out clean</p>
+        <li itemprop="recipeInstruction"><p>Bake until brown/cracked, toothpick comes out clean</p>
 </li>
         
       </ul>
@@ -248,6 +260,57 @@
     $('html, body').animate({scrollTop: y-height-16}, 200);
   });
 
+  });
+
+  $('#edit').on('click', function() {
+    var title = "Banana Bread";
+    var path = "_recipes/banana-bread.md";
+    var tags = "breakfast,baking";
+    var description = $('div[itemprop="description"]').text();
+
+    var ingredients = [];
+    
+      ingredients.push("4 bananas");
+    
+      ingredients.push("1/2 cup butter");
+    
+      ingredients.push("1/2 cup sugar");
+    
+      ingredients.push("2 eggs");
+    
+      ingredients.push("2 cups flour");
+    
+      ingredients.push("1/2 tsp baking soda");
+    
+      ingredients.push("1 tsp baking powder");
+    
+      ingredients.push("pinch salt");
+    
+      ingredients.push("1/4 cup nuts (we like pecans)");
+    
+
+    var directions = [];
+    
+      directions.push("Beat the eggs, then cream with the butter and sugar");
+    
+      directions.push("Mix in bananas, then flour, baking soda/powder, salt, and nuts");
+    
+      directions.push("Add to greased and floured pan");
+    
+      directions.push("Bake until brown/cracked, toothpick comes out clean");
+    
+
+    var json = JSON.stringify({
+      title: title,
+      path: path,
+      tags: tags,
+      description: description,
+      ingredients: ingredients,
+      directions: directions
+    });
+
+    localStorage.setItem("recipe", json);
+    window.location.href = "/chowdown/edit.html";
   });
   
 </script>

@@ -15,7 +15,6 @@
 
       "image"	   : "{{ post.image }}",
       "url"      : "{{ site.baseurl }}{{ post.url }}"
-      
     } {% unless forloop.last %},{% endunless %}
   {% endfor %}
 ]
