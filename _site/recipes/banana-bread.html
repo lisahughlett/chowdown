@@ -274,7 +274,13 @@
   $('#edit').on('click', function() {
     var title = "Banana Bread";
     var path = "_recipes/banana-bread.md";
-    var tags = "breakfast,baking";
+    var servings = "";
+    var tags = "";
+    
+      tags += "breakfast, ";
+    
+      tags += "baking ";
+    
     var description = $('div[itemprop="description"]').text();
 
     var ingredients = [];
@@ -313,6 +319,7 @@
       title: title,
       path: path,
       tags: tags,
+      servings: servings,
       description: description,
       ingredients: ingredients,
       directions: directions

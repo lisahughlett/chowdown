@@ -7,7 +7,7 @@ imagecredit: https://leitesculinaria.com/85299/recipes-white-bean-chicken-chili.
 
 tags: mealprep dinner soup
 
-recipeYield:
+recipeYield: 6
 
 ingredients:
 - 2 Tablespoon vegetable oil
