@@ -141,13 +141,13 @@ layout: default
     });
 
     function constructFile() {
-        var result = '---\n';
+        let result = '---\n';
         result += '\n';
 
         // Basics
         result += 'layout: recipe\n';
         result += 'title: ' + $('#title').val() + '\n';
-        result += 'image: ' + $('#title').val().toLowerCase() + '.jpg\n';
+        result += 'image: ' + $('#title').val().toLowerCase().replace(' ', '-') + '.jpg\n';
         result += 'tags: ' + $('#tags').val() + '\n';
         result += 'recipeYield: ' + $('#servings').val() + '\n';
         result += '\n';
@@ -170,7 +170,7 @@ layout: default
 
         result += $('#description').val();
 
-        var name = $('#title').val().toLowerCase().split(' ').join('_').replace('ä', 'ae').replace('ö', 'oe').replace('ü', 'ue').replace('ß', 'ss');
+        let name = $('#title').val().toLowerCase().replace(' ', '-').replace('ä', 'ae').replace('ö', 'oe').replace('ü', 'ue').replace('ß', 'ss') + '.md';
 
         return {
             name: name + '.md',
