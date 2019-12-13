@@ -2,11 +2,11 @@
 
 layout: recipe
 title: Dad's Sugar Cookies
-image: dad's-sugar cookies.jpg
-tags: 
+image: dad's sugar cookies.jpg
+tags: Dessert Christmas
 recipeYield: 4 Dozen Cookie
 
-ingredients:
+ingredients: 
 - 3/4 cup shortening or butter
 - 1 cup sugar
 - 2 eggs
@@ -15,7 +15,7 @@ ingredients:
 - 1 tsp baking powder
 - 1 tsp salt
 
-directions:
+directions: 
 - Bake for 6-8 minutes at 400 deg
 
 ---
