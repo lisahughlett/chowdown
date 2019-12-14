@@ -2,11 +2,11 @@
 
 layout: recipe
 title: Chicken or Veggie Pot Pie
-image: chicken or veggie pot pie.jpg
-tags: dinner mealprep 
+image: chicken-or-veggie-pot-pie.jpg
+tags: dinner mealprep
 recipeYield: 6 servings
 
-ingredients: 
+ingredients:
 - 1/2 Cup butter
 - 1/2 Cup chopped Onion
 - 1/2 Cup flour
@@ -18,7 +18,7 @@ ingredients:
 - 2-3 Cup mixed vegetables (potatoes, carrots, peas, corn)
 - Pillsbury pie crust (or your homemade pie crust)
 
-directions: 
+directions:
 - Preheat oven to 425° F
 - Remove the crust from the fridge to start warming up
 - Melt butter and add onion
