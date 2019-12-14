@@ -3,7 +3,7 @@
 layout: recipe
 title: Oatmeal Cookies
 image: oatmeal-cookies.jpg
-tags: Dessert
+tags: dessert
 recipeYield: 
 
 ingredients:

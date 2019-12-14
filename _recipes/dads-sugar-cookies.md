@@ -3,7 +3,7 @@
 layout: recipe
 title: Dad's Sugar Cookies
 image: dads-sugar-cookies.jpg
-tags: Dessert Christmas
+tags: dessert christmas
 recipeYield: 4 Dozen Cookie
 
 ingredients:

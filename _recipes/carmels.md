@@ -3,7 +3,7 @@
 layout: recipe
 title: Carmels
 image: carmels.jpg
-tags: Dessert Christmas
+tags: dessert christmas
 recipeYield: 
 
 ingredients: 

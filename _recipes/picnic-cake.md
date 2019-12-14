@@ -3,7 +3,7 @@
 layout: recipe
 title: Picnic Cake
 image: picnic-cake.jpg
-tags: Dessert 
+tags: dessert 
 recipeYield: 
 
 ingredients:

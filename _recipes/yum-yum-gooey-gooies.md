@@ -3,7 +3,7 @@
 layout: recipe
 title: Yum Yum Gooey Gooies
 image: yum-yum-gooey-gooies.jpg
-tags: Dessert
+tags: dessert
 recipeYield: 
 
 ingredients:
