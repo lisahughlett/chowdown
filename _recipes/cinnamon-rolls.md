@@ -15,7 +15,7 @@ ingredients:
 - Frosting
 
 directions:
-- Preheat oven to 400 degrees
+- Preheat oven to 400 °F
 - Make the dough
 - Roll it out and spread filling
 - Roll the sheet into a log and cut it with dentalfloss

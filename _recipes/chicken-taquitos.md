@@ -24,7 +24,7 @@ ingredients:
 - kosher salt
 
 directions:
-- Preheat your oven to 425 degrees F. Line a baking sheet with parchment paper.
+- Preheat your oven to 425 °F. Line a baking sheet with parchment paper.
 - In a large bowl, mix together the cream cheese, salsa, lime juice, cumin, chili powder, onion powder, garlic, cilantro, and scallions until well combine and creamy. Add in the cooked chicken and cheese; stir to thoroughly combine.
 - Working with a few tortillas at a time, heat them in the microwave between two paper towels until they are soft enough to roll (about 10 seconds).
 - Spoon 3 tablespoons of the chicken mixture onto the lower third of a tortilla. Roll the tortilla tightly.

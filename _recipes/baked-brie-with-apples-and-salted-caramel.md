@@ -18,7 +18,7 @@ ingredients:
 - Stacy's Salted Caramel pita chips or crackers for serving
 
 directions:
-- Preheat the oven to 350 degrees F.
+- Preheat the oven to 350 °F.
 - Place the wheel of brie on a large baking sheet that has been lined with parchment paper.
 - Bake for 10-12 minutes.
 - While the brie is baking, melt the butter in a small saucepan.

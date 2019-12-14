@@ -23,7 +23,7 @@ directions:
 - Add egg, water, and vanilla and stir until well blended
 - Add remaining ingredients 
 - Drop by teaspoonfuls onto a greased cookie sheet
-- Cook for 12 minutes at 350 deg
+- Cook for 12 minutes at 350 °F
 
 ---
 

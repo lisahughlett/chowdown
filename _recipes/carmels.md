@@ -17,7 +17,7 @@ ingredients:
 directions: 
 - Cook sugar, syrup, and 1 cup cream until they boil
 - Slowly add the rest of the cream
-- Cook to softball stage (240 deg F)
+- Cook to softball stage (240 °F)
 - Take of heat
 - Add vanilla and nuts
 - Pour in greased pan and let cool

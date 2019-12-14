@@ -31,7 +31,7 @@ directions:
 - In double boiler (or microwave) mix chocolate chips, sweeten condensed milk, butter, salt, vanilla, and bakers chocolate. Stir until smooth.
 - Remove from heat and stir in nuts
 - Spread 2/3 of cookie dough in greased 15x10 pan. Cover with chocolate mixture and put remaining cookie dough on top in globs. 
-- Bake at 350 deg for 25-30 minutes
+- Bake at 350 °F for 25-30 minutes
 
 ---
 

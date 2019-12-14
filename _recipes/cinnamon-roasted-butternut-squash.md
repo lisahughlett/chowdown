@@ -16,7 +16,7 @@ ingredients:
 - Dash of cayenne (optional)
 
 directions:
-- Preheat oven to 425 degrees
+- Preheat oven to 425 °F
 - Toss squash cubes with olive oil, brown sugar, cinnamon, salt and the cayenne until well coated
 - Place silicone baking mat on baking sheet(s)
 - Tumble coated squash onto baking sheets and spread into one layer (try not to crowd them too much or else they will not brown)

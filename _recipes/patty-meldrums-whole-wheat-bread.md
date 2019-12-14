@@ -23,7 +23,7 @@ directions:
 - Kneed and let rise until double 
 - Divide into 4 and put into bread pans
 - Let rise 30 minutes
-- Bake for 30 minutes at 375 deg
+- Bake for 30 minutes at 375 °F
 - Remove from pans immediately
 
 ---

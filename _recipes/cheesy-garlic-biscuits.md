@@ -21,7 +21,7 @@ ingredients:
 - 1/2 teaspoon dried parsley
 
 directions:
-- Preheat oven to 425°F.
+- Preheat oven to 425 °F.
 - Prepare a large baking sheet with parchment paper. 
 - In a medium microwave-safe bowl, add 1/4 cup butter. Heat until butter is melted. (About 25 seconds) Set aside to slightly cool.
 - In a large mixing bowl add the flour, sugar, baking powder, garlic and 1 teaspoon salt. Mix until well combined.

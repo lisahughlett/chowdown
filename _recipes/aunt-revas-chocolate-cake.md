@@ -22,7 +22,7 @@ ingredients:
 - 1 tsp vanilla
 
 directions:
-- preheat oven to 350°F
+- preheat oven to 350 °F
 - mix dry ingredients
 - add lemon juice to milk to make "sour milk"
 - mix in liquid ingredients

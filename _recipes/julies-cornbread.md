@@ -19,7 +19,7 @@ ingredients:
 - 1 T corn Syrup
 
 directions:
-- Cook for 20-30 min at 375 deg in a 9x9 pan
+- Cook for 20-30 min at 375 °F in a 9x9 pan
 
 ---
 

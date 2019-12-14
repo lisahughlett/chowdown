@@ -27,7 +27,7 @@ directions:
 - Gradually stir in broth, and milk. Cook until bubbly and thick.
 - Add chicken and vegetables.
 - Pour into Pie Crust
-- Bake 425 degrees 30-40 minutes until crust is light brown.
+- Bake 425 °F 30-40 minutes until crust is light brown.
 
 ---
 If you want to do a vegetable pot pie, replace the 2-3 cups of turkey/chicken with more vegetables

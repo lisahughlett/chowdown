@@ -16,7 +16,7 @@ ingredients:
 - 1 tsp salt
 
 directions:
-- Bake for 6-8 minutes at 400 deg
+- Bake for 6-8 minutes at 400 °F
 
 ---
 

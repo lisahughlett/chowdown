@@ -14,7 +14,7 @@ ingredients:
 - 1 cup vegetable oil
 
 directions:
-- preheat oven to 350°F
+- preheat oven to 350 °F
 - mix until smooth (will be thick)
 - roll into balls
 - bake for 9-10 minutes

@@ -14,7 +14,7 @@ ingredients:
 - 1 tablespoon olive oil
 
 directions:
-- Preheat oven to 400°F.
+- Preheat oven to 400 °F.
 - Combine all fish taco sauce ingredients in a small bowl and set aside.
 - Combine rub ingredients and rub into fish fillets. Place fish on a parchment lined pan and drizzle with olive oil.
 - Bake for 12-15 minutes or until flaky and cooked.

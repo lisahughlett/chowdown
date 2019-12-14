@@ -28,7 +28,7 @@ directions:
 - Divide dough in half.
 - Roll out in rectangle, spread dough with butter and roll up. Slice the dough with floss and put in muffin tins. Or roll out into circle and spread with butter. Cut in 12 pizza slice shape and roll into crescent shape.
 - Let rise for 3 hours.
-- Bake at 400 degrees for 15 minutes.
+- Bake at 400 °F for 15 minutes.
 
 ---
 

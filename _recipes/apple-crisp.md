@@ -20,7 +20,7 @@ ingredients:
 
 directions:
 
-- Preheat oven to 350 degrees F.
+- Preheat oven to 350 °F.
 - In a medium bowl, combine the apples, (pears), sugar, cinnamon, and salt; toss until well combined.
 - Add the apples to a glass 9x13 pan; spread out into an even layer.
 - In a small bowl, stir together the oats, flour, and brown sugar; set aside.

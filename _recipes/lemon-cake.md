@@ -17,7 +17,7 @@ ingredients:
 - 1 small package of instant lemon pudding
 
 directions:
-- preheat oven to 350°F
+- preheat oven to 350 °F
 - mix dry ingredients
 - add wet ingredients
 - 9 x 13 bake for 25-30 minutes

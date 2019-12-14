@@ -20,7 +20,7 @@ directions:
 - Mix together 2 cups bran and 2 cups boiling water
 - Let cool
 - Mix in everything else
-- Bake 18 - 20 min at 400 deg
+- Bake 18 - 20 min at 400 °F
 
 ---
 Keeps well in the refrigerator for 30 days

@@ -22,7 +22,7 @@ directions:
 - Stir in flour, salt, and chopped nuts
 - Chill dough
 - Roll into 1 inch balls and place on un-greased cookie sheet (cookies do not spread when baked)
-- Bake at 400 degrees for 10 - 12 minutes until set but not brown
+- Bake at 400 °F for 10 - 12 minutes until set but not brown
 - While still warm, roll in powered sugar
 
 ---

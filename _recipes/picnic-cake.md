@@ -27,7 +27,7 @@ directions:
 - Mix in the rest of the dry ingredients and 1/2 bag of chocolate chips
 - Poor batter into a 9x12 pan
 - Sprinkle the remaining 1/2 bag of chocolate chips and nuts on top
-- Bake for 40 minutes at 350 deg
+- Bake for 40 minutes at 350 °F
 
 ---
 
