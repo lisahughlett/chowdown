@@ -16,7 +16,7 @@ ingredients:
 - 1 cup flour
 - 1 tsp salt
 - 1/2 teaspoon baking soda
-- 1 eggg
+- 1 egg
 
 directions:
 - Cream sugar and shortening together until smooth  

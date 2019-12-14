@@ -2,7 +2,7 @@
 
 layout: recipe
 title: "Rolls"
-image: rolls.jpg 
+image: rolls.jpg
 imagecredit: https://spicysouthernkitchen.com/the-best-yeast-rolls/
 
 tags: side
@@ -25,8 +25,8 @@ directions:
 - Add two cups of flour to mixture and mix. Slowly add remaining flour
 - Dough should be sticky. Cover and let rise 1 1/2  hours
 - Punch down dough and refrigerate overnight. Watch dough carefully you may have to punch down several times.
-- Divide dough in half. 
-- Roll out in rectangle, spread dough with butter and roll up. Slice the dough with floss and put in muffin tins. Or roll out into circle and spread with butter. Cut in 12 pizza slice shape and roll into crescent shape. 
+- Divide dough in half.
+- Roll out in rectangle, spread dough with butter and roll up. Slice the dough with floss and put in muffin tins. Or roll out into circle and spread with butter. Cut in 12 pizza slice shape and roll into crescent shape.
 - Let rise for 3 hours.
 - Bake at 400 degrees for 15 minutes.
 

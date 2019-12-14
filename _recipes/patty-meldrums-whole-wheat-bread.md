@@ -2,7 +2,7 @@
 
 layout: recipe
 title: Patty Meldrums Whole Wheat Bread
-image: patty-meldrums whole wheat bread.jpg
+image: patty-meldrums-whole-wheat-bread.jpg
 tags: 
 recipeYield: 4 Loafs 
 

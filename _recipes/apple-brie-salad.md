@@ -2,7 +2,7 @@
 
 layout: recipe
 title: "Apple Brie Salad"
-image: apple-brie-salad.jpg 
+image: apple-brie-salad.jpg
 imagecredit: https://www.lemontreedwelling.com/wp-content/uploads/2016/01/Apple-Brie-Salad-6.jpg
 
 tags: dinner salad

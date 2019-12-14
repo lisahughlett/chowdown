@@ -2,7 +2,7 @@
 
 layout: recipe
 title: See's Fudge
-image: see's-fudge.jpg
+image: sees-fudge.jpg
 tags: Dessert Christmas
 recipeYield: 
 

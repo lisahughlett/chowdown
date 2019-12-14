@@ -2,7 +2,7 @@
 
 layout: recipe
 title: 30 Day Bran Muffins
-image: 30 day bran muffins.jpg
+image: 30-day-bran-muffins.jpg
 tags: 
 recipeYield: 
 
