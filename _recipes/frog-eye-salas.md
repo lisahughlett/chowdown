@@ -1,9 +1,9 @@
 ---
 
 layout: recipe
-title: Frog Eye Salad 
-image: frog eye salad .jpg
-tags: 
+title: Frog Eye Salad
+image: frog eye salad.jpg
+tags: side
 recipeYield: 
 
 ingredients: 

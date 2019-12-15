@@ -1,15 +1,12 @@
 ---
 
 layout: recipe
-title:  "Cheesy Garlic Biscuits"
-image: cheesy-garlic-biscuits.jpg
-imagecredit: https://iambaker.net/cheesy-garlic-biscuits-red-lobster/
+title: Cheesy Garlic Biscuits
+image: cheesy garlic biscuits.jpg
+tags: side
+recipeYield: 
 
-tags: sides
-
-recipeYield:
-
-ingredients:
+ingredients: 
 - 1/2 cup butter, divided
 - 2 cups all-purpose flour
 - 1 tbsp. granulated sugar
@@ -20,9 +17,9 @@ ingredients:
 - 2 cups mild cheddar cheese
 - 1/2 teaspoon dried parsley
 
-directions:
+directions: 
 - Preheat oven to 425 °F.
-- Prepare a large baking sheet with parchment paper. 
+- Prepare a large baking sheet with parchment paper.
 - In a medium microwave-safe bowl, add 1/4 cup butter. Heat until butter is melted. (About 25 seconds) Set aside to slightly cool.
 - In a large mixing bowl add the flour, sugar, baking powder, garlic and 1 teaspoon salt. Mix until well combined.
 - Warm the milk for about 25 seconds in the microwave and combine with the melted butter you set aside and stir well.
@@ -34,6 +31,5 @@ directions:
 - Serve hot.
 
 ---
-
-From [I Am Baker](https://iambaker.net/cheesy-garlic-biscuits-red-lobster/)
+From I Am Baker
 
