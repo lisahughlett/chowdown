@@ -15,7 +15,7 @@ ingredients:
 - 1/2 cup milk
 - 1/2 cup water 
 - 1/2 teaspoon salt
-- <2 tablespoons melted butter
+- 1 tbsp melted butter
 
 directions:
 - Mix in a blender
