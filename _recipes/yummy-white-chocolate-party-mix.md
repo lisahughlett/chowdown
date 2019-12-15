@@ -2,8 +2,8 @@
 
 layout: recipe
 title: White Chocolate Party Mix
-image: white-chocolate-party-mix.jpg
-tags: 
+image: white chocolate party mix.jpg
+tags: dessert
 recipeYield: 
 
 ingredients: 
