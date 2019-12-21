@@ -2,7 +2,7 @@
 
 layout: recipe
 title: Julie's Cornbread
-image: julie's cornbread.jpg
+image: julies-cornbread.jpg
 tags: side
 recipeYield: 
 

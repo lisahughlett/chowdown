@@ -177,7 +177,7 @@ layout: default
         // Basics
         result += 'layout: recipe\n';
         result += 'title: ' + $('#title').val() + '\n';
-        result += 'image: ' + $('#title').val().toLowerCase() + '.jpg\n';
+        result += 'image: ' + $('#title').val().trim().toLowerCase().replace(/\s+/g, '-').replace(/\'/, '') + '.jpg\n';
         result += 'tags: ' + $('#tags').val().toLowerCase() + '\n';
         result += 'recipeYield: ' + $('#servings').val() + '\n';
         result += '\n';

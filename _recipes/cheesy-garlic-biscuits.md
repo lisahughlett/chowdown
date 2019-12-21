@@ -2,7 +2,7 @@
 
 layout: recipe
 title: Cheesy Garlic Biscuits
-image: cheesy garlic biscuits.jpg
+image: cheesy-garlic-biscuits.jpg
 tags: side
 recipeYield: 
 

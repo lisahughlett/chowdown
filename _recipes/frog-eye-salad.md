@@ -2,7 +2,7 @@
 
 layout: recipe
 title: Frog Eye Salad
-image: frog eye salad.jpg
+image: frog-eye-salad.jpg
 tags: side
 recipeYield: 
 

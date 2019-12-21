@@ -1,8 +1,8 @@
 ---
 
 layout: recipe
-title: Romona's Chicken Tocos
-image: romonas-chicken-tocos.jpg
+title: Romona's Chicken Tacos
+image: romonas-chicken-tacos.jpg
 tags: dinner
 recipeYield: 
 

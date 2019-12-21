@@ -141,7 +141,7 @@ layout: default
     });
 
     function constructFile() {
-        let name = $('#title').val().toLowerCase().replace(/\s+/g, '-').replace(/\'/, '').replace(/ä/g, 'ae').replace(/ö/g, 'oe').replace(/ü/g, 'ue').replace(/ß/g, 'ss');
+        let name = $('#title').val().trim().toLowerCase().replace(/\s+/g, '-').replace(/\'/, '').replace(/ä/g, 'ae').replace(/ö/g, 'oe').replace(/ü/g, 'ue').replace(/ß/g, 'ss');
 
         let result = '---\n';
         result += '\n';

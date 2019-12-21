@@ -2,7 +2,7 @@
 
 layout: recipe
 title: Rainbow Fettuccine 
-image: rainbow-fettuccine-.jpg
+image: rainbow-fettuccine.jpg
 tags: dinner
 recipeYield: 4-5 Servings
 
@@ -26,8 +26,8 @@ directions:
 - In a large pot bring 4-5 quarts of water to a boil  add 1 Tbsp oil and 2 tsp salt to water. Cook pasta and drain.
 - Melt butter. Stir in garlic and warm for 1 minute. Add broth vegetables and 1/4 tsp salt. Bring to simmer.
 - Cover pan and simmer vegetables for 3 minutes. Stir in cream and remove from heat.
-- Add drained pasta to vegtables. Put back on heat and toss for 3-4 minutes. Add 1/2 of parmesan cheese and toss lightly. 
-- Serve with remaining parmesan cheese and parsley as garnish. 
+- Add drained pasta to vegetables. Put back on heat and toss for 3-4 minutes. Add 1/2 of Parmesan cheese and toss lightly. 
+- Serve with remaining Parmesan cheese and parsley as garnish. 
 
 ---
 
