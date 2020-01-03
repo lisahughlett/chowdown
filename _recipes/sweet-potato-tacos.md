@@ -14,7 +14,7 @@ ingredients:
 - 1/2 teaspoon chili powder
 - 1/2 teaspoon garlic powder
 - 1/2 teaspoon cayenne pepper or red pepper flakes
-- 2 medium sweet potatoes 
+- 2 medium sweet potatoes
 - 1 can black beans
 - 1 tablespoon cilantro, dried or fresh
 - 1 cup corn (frozen or fresh)
@@ -30,7 +30,7 @@ ingredients:
 directions:
 - Pre-heat your oven to 425° F.
 - Poke a few holes in your sweet potato, wrap it in a damp paper towel, and microwave for about 6-8 minutes. Or cook however you'd like.
-- Combine corn, peppers, onion black beans, garlic powder, chili powder, cumin, cilantro, and cayenne. 
+- Combine corn, peppers, onion black beans, garlic powder, chili powder, cumin, cilantro, and cayenne.
 - Once your sweet potato is cooked, fluff the inside with a fork and add the flesh [minus the skin]
 - Add salt, pepper, and any additional seasoning to taste.
 - Spray or rub one side each tortilla with oil and add a "line" of filling to the center of the "dry side" of each tortilla.

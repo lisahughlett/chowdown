@@ -17,6 +17,7 @@ ingredients:
 
 directions:
 - Bake for 6-8 minutes at 400 °F
+- I double the recipe and put in both 3/4 cup shortening and 3/4 cup butter.
 
 ---
 

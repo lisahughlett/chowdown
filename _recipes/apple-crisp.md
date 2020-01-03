@@ -7,7 +7,7 @@ imagecredit: https://www.tasteofhome.com/recipes/two-layered-apple-crisp/
 tags: dessert, baking
 
 ingredients:
-- 4 apples, cored, quartered and sliced 
+- 4 apples, cored, quartered and sliced
 - (or 8 apples if making without pears)
 - 4 ripe pears, cored and sliced (optional)
 - 4 tablespoons sugar

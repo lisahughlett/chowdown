@@ -4,9 +4,9 @@ layout: recipe
 title: Julie's Cornbread
 image: julies-cornbread.jpg
 tags: side
-recipeYield: 
+recipeYield:
 
-ingredients: 
+ingredients:
 - 1 cup corn meal
 - 1 1/4 cups flour
 - 1/4 cup sugar
@@ -18,7 +18,7 @@ ingredients:
 - 2 T white vinegar
 - 1 T corn Syrup
 
-directions: 
+directions:
 - Cook for 20-30 min at 375 °F in a 9x9 pan
 
 ---

@@ -7,7 +7,7 @@ imagecredit: https://www.momontimeout.com/cranberry-pecan-pumpkin-bread-recipe/
 
 tags: dessert bread
 
-recipeYield: 2 loaves  
+recipeYield: 2 loaves
 
 ingredients:
 - 3 cups all purpose flour

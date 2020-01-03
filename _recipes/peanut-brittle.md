@@ -4,7 +4,7 @@ layout: recipe
 title: Peanut Brittle
 image: peanut-brittle.jpg
 tags: dessert christmas
-recipeYield: 
+recipeYield:
 
 ingredients:
 - 1 cup white syrup

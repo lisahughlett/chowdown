@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-title:  "Garlic Parmesan Salmon"
+title: "Garlic Parmesan Salmon"
 image: garlic-parmesan-salmon.jpg
 imagecredit: https://cafedelites.com/crispy-garlic-parmesan-salmon/
 

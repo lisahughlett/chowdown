@@ -3,14 +3,14 @@
 layout: recipe
 title: Caramel Popcorn
 image: caramel-popcorn.jpg
-tags: dessert 
-recipeYield: 
+tags: dessert
+recipeYield:
 
 ingredients:
 - 1 cup unpopped popcorn
 - 1 stick butter
 - 2 cups brown sugar
-- 1/2 cup white karyo syrup 
+- 1/2 cup white karyo syrup
 - 1 tsp soda
 
 directions:

@@ -3,7 +3,7 @@
 layout: recipe
 title: "Roasted Potatoes and Spinach"
 image: roasted-potatoes-and-spinach.jpg
-imagecredit: http://myliferunsonfood.com/2011/10/truffle-oil-roast-salmon-mushrooms/ 
+imagecredit: http://myliferunsonfood.com/2011/10/truffle-oil-roast-salmon-mushrooms/
 
 tags: side
 
@@ -15,7 +15,7 @@ ingredients:
 - 2 cloves garlic, minced
 - 1 tbsp fresh rosemary, chopped
 - sea salt
-- ground black pepper 
+- ground black pepper
 - 2 cups fresh spinach leaves
 
 directions:

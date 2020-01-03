@@ -9,21 +9,34 @@ layout: default
             <input type="text" class="form-control center col-12 col-md-10 col-lg-8" id="title" placeholder="Title"
                 aria-label="Title" style="margin-bottom:5px;">
             <textarea class="form-control center col-12 col-md-10 col-lg-8" id="description" rows="3" placeholder="Description" style="margin-bottom:5px;"></textarea>
-            <input type="text" class="form-control center col-12 col-md-10 col-lg-8" id="tags" placeholder="Tags"
+            <input type="text" class="form-control center col-12 col-md-10 col-lg-8" id="tags" placeholder="Tags (space separated)"
                 aria-label="Tags" style="margin-bottom:5px;">
             <input type="text" class="form-control center col-12 col-md-10 col-lg-8" id="servings" placeholder="Serving Size"
                 aria-label="Tags" style="margin-bottom:5px;">
         </div>
     </div>
 
-    <h4 class="mb3 blue" style="margin-bottom: 15px; margin-top: 15px;">Ingredients <a href="#"
-            id="new-ingredient">(+)</a></h4>
-    <div id="ingredients" class="col-12" style="margin-bottom: 20px;">
+    <h4 class="mb3 blue" style="margin-bottom: 15px; margin-top: 15px;">Ingredients
+      <button type="button" id="new-ingredient" class="btn" style="margin-bottom:6px; padding-left: 6px;">
+      {% include plus.svg %}
+      </button>
+    </h4>
+    <div id="ingredients" class="col-12" style="margin-bottom: 20px;"> </div>
 
-    </div>
-    <h4 class="mb3 blue" style="margin-bottom: 15px;">Directions <a href="#" id="new-direction">(+)</a></h4>
-    <div id="directions" class="col-12" style="margin-bottom: 20px;">
-    </div>
+    <h4 class="mb3 blue" style="margin-bottom: 15px;">Directions
+      <button type="button" id="new-direction" class="btn" style="margin-bottom:6px; padding-left: 6px;">
+      {% include plus.svg %}
+      </button>
+    </h4>
+    <div id="directions" class="col-12" style="margin-bottom: 20px;"> </div>
+
+    <h4 class="mb3 blue" style="margin-bottom: 15px;">Components
+      <button type="button" id="new-component" class="btn" style="margin-bottom:6px; padding-left: 6px;">
+      {% include plus.svg %}
+      </button>
+    </h4>
+    <div id="components" class="col-12" style="margin-bottom: 20px;"> </div>
+
     <div class="col-12">
         <div class="row justify-content-md-center">
             <button type="button" class="btn btn-primary col-12 col-md-8 col-lg-6" id="save">Save Recipe</button>
@@ -111,6 +124,7 @@ layout: default
             function (err) {
                 if (err) {
                     console.error('An error occurred when submitting the file');
+                    alert('An error occurred when submitting the file');
                 } else {
                     window.location.href = '/';
                 }
@@ -136,41 +150,58 @@ layout: default
             '</div>');
     });
 
+    $('#new-component').on('click', function () {
+        $('#components').append('<div style="display: flex; margin-bottom: 5px;">' +
+            '<input type="text" class="form-control component" placeholder="Component" aria-label="Component">' +
+            '<button type="button" class="btn btn-warning remove-item" style="margin-left: 10px;">Remove</button>' +
+            '</div>');
+    });
+
     $(document).on('click', '.remove-item', function () {
         $(this).parent().remove();
     });
 
     function constructFile() {
-        let name = $('#title').val().trim().toLowerCase().replace(/\s+/g, '-').replace(/\'/, '').replace(/ä/g, 'ae').replace(/ö/g, 'oe').replace(/ü/g, 'ue').replace(/ß/g, 'ss');
+        const name = $('#title').val().trim().toLowerCase().replace(/\s+/g, '-').replace(/,/g,'').replace(/\'/, '').replace(/:/g, '').replace(/ä/g, 'ae').replace(/ö/g, 'oe').replace(/ü/g, 'ue').replace(/ß/g, 'ss');
 
         let result = '---\n';
         result += '\n';
 
         // Basics
         result += 'layout: recipe\n';
-        result += 'title: ' + $('#title').val() + '\n';
+        result += 'title: ' + $('#title').val().replace(/:/g, '') + '\n';
         result += 'image: ' + name + '.jpg\n';
-        result += 'tags: ' + $('#tags').val().toLowerCase() + '\n';
-        result += 'recipeYield: ' + $('#servings').val() + '\n';
+        result += 'tags: ' + $('#tags').val().toLowerCase().replace(/:/g, '') + '\n';
+        result += 'recipeYield: ' + $('#servings').val().replace(/:/g, '') + '\n';
         result += '\n';
 
         // ingredients
         result += 'ingredients:\n';
         $('.ingredient').each(function (index) {
-            result += '- ' + $(this).val() + '\n';
+          if($(this).val() !== '')
+            result += '- ' + $(this).val().replace(/:/g, '') + '\n';
         });
         result += '\n';
 
         // directions
         result += 'directions:\n';
         $('.direction').each(function (index) {
-            result += '- ' + $(this).val() + '\n';
+          if($(this).val() !== '')
+            result += '- ' + $(this).val().replace(/:/g, '') + '\n';
         });
         result += '\n';
 
-        result += '---\n\n';
+        // components
+        result += 'components:\n'
+        $('.component').each(function (index) {
+          if($(this).val() !== '')
+            result += '- ' + $(this).val().replace(/:/g, '') + '\n';
+        });
+        result += '\n';
 
-        result += $('#description').val();
+        result += '---\n';
+
+        result += $('#description').val().replace(/:/g, '');
 
 
         return {

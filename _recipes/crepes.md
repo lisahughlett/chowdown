@@ -13,7 +13,7 @@ ingredients:
 - 1 cup flour
 - 2 eggs
 - 1/2 cup milk
-- 1/2 cup water 
+- 1/2 cup water
 - 1/2 teaspoon salt
 - 1 tbsp melted butter
 

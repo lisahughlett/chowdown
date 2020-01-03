@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-title:  "Tuscan Chicken Mac'n Cheese"
+title: "Tuscan Chicken Mac'n Cheese"
 image: tuscan-chicken-mac-n-cheese.jpg
 imagecredit: https://cafedelites.com/tuscan-chicken-mac-and-cheese/
 
@@ -35,9 +35,9 @@ directions:
 - Season chicken with salt, pepper, paprika, dried parsley and 2 teaspoons of the oil. Heat the remaining oil in a large (30cm or 12-inch) pot or pan over medium-high heat. Add the chicken and sear on both sides until golden brown, cooked through and no longer pink in the middle. Transfer chicken to a warm plate, tent with foil and set aside.
 - To the same pan, add the butter and fry the onion and garlic until the onion becomes transparent, stirring occasionally (about 2 minutes). Pour in the white wine and allow to simmer for 5 minutes, or until beginning to reduce down.
 - Add the sun dried tomatoes with 2 tablespoons of the sun dried tomato oil from the jar and cook for 1-2 minutes to release as much flavor as possible.
-- Stir the flour into the pot and allow to cook for a further minute. Then, add the broth, 2 1/2 cups of milks (or cream/half and half), herbs, salt and pepper, and bring to a very low simmer (lower the heat if you need to). 
-- Add the dry macaroni and stir occasionally as it comes to a simmer. Reduce heat down to medium low and stir regularly while it cooks (for about 9 - 10 minutes), or until the sauce thickens and the macaroni is just cooked (al dente, tender but still firm). Add the spinach and stir through until wilted. 
-- Take the pot off the stove and stir all of the cheese in quickly. Adjust salt and pepper to taste. If the sauce it too thick, add the remaining 1/2 cup milk (or cream) in 1/4 cup increments, until reaching desired thickness. Keep in mind the sauce will continue to thicken as it cools. 
+- Stir the flour into the pot and allow to cook for a further minute. Then, add the broth, 2 1/2 cups of milks (or cream/half and half), herbs, salt and pepper, and bring to a very low simmer (lower the heat if you need to).
+- Add the dry macaroni and stir occasionally as it comes to a simmer. Reduce heat down to medium low and stir regularly while it cooks (for about 9 - 10 minutes), or until the sauce thickens and the macaroni is just cooked (al dente, tender but still firm). Add the spinach and stir through until wilted.
+- Take the pot off the stove and stir all of the cheese in quickly. Adjust salt and pepper to taste. If the sauce it too thick, add the remaining 1/2 cup milk (or cream) in 1/4 cup increments, until reaching desired thickness. Keep in mind the sauce will continue to thicken as it cools.
 - Slice the chicken into strips and stir through the pasta (pour in any juices left from the chicken). Sprinkle with parsley, and stir through. Serve immediately!
 
 ---

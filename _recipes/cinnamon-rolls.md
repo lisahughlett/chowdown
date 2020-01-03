@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-title:  "Cinnamon Rolls"
+title: "Cinnamon Rolls"
 image: cinnamon-rolls.jpg
 imagecredit: https://eatathomecooks.com/whole-wheat-cinnamon-rolls/
 

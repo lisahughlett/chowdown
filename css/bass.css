@@ -1263,3 +1263,7 @@ input[type=range] {
   content: 'Scale';
   color: black;
 }
+
+.shadow-black {
+  text-shadow: 3px 3px 2px #000000;
+}

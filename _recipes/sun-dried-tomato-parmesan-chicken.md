@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-title:  "Sun Dried Tomato Parmesan Chicken"
+title: "Sun Dried Tomato Parmesan Chicken"
 image: sun-dried-tomato-parmesan-chicken.jpg
 imagecredit: https://cafedelites.com/sun-dried-tomato-parmesan-chicken/
 

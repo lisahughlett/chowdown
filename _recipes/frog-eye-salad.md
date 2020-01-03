@@ -4,9 +4,9 @@ layout: recipe
 title: Frog Eye Salad
 image: frog-eye-salad.jpg
 tags: side
-recipeYield: 
+recipeYield:
 
-ingredients: 
+ingredients:
 - 1 cup sugar
 - 2 tbsp flour
 - 1/2 tsp salt
@@ -20,7 +20,7 @@ ingredients:
 - 2 20 oz can pineapple
 - 9 oz cool whip
 
-directions: 
+directions:
 - Combine sugar, flour, salt, pineapple juice, and eggs in a sauce pan. Heat and stir until thick.
 - Remove from heat and add lemon juice. Cool mixture to room temperature.
 - Boil 1 tbsp cooking oil, 2 tsp salt, and 1 1/2 cups noodles

@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-title:  "Fish Tacos"
+title: "Fish Tacos"
 image: fish-tacos.jpg
 imagecredit: https://www.spendwithpennies.com/fish-tacos-recipe-onion-slaw/
 

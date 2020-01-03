@@ -3,10 +3,10 @@
 layout: recipe
 title: 30 Day Bran Muffins
 image: 30-day-bran-muffins.jpg
-tags: 
-recipeYield: 
+tags:
+recipeYield:
 
-ingredients: 
+ingredients:
 - 3 cups sugar minus 1T. each cup
 - 1 cup vegetable oil
 - 1 tsp salt
@@ -16,7 +16,7 @@ ingredients:
 - 4 eggs beaten
 - 5 cups flour
 
-directions: 
+directions:
 - Mix together 2 cups bran and 2 cups boiling water
 - Let cool
 - Mix in everything else

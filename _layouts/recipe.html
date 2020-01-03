@@ -23,11 +23,7 @@ layout: default
   <header class="post-header">
     <h1 class="post-title center m1 sm-mt3" itemprop="name">
       {{ page.title }}
-      {% if page.components %}
-        (Can't edit recipe with components, yet...)
-      {% else %}
         <a href="#" id="edit">(Edit)</a>
-      {% endif %}
     </h1>
   </header>
 
@@ -170,33 +166,45 @@ layout: default
   });
 
   $('#edit').on('click', function() {
-    var title = "{{ page.title }}";
-    var path = "{{ page.path }}";
-    var servings = "{{ page.recipeYield }}";
-    var tags = "";
+    const path = "{{ page.path }}";
+    const title = "{{ page.title }}";
+    const image = "{{ page.image }}";
+    const servings = "{{ page.recipeYield }}";
+
+    let tags = "";
     {% for tag in page.tags %}
       tags += "{{ tag }} ";
     {% endfor %}
-    var description = $('div[itemprop="description"]').text();
 
-    var ingredients = [];
+    let ingredients = [];
     {% for ingredient in page.ingredients %}
       ingredients.push("{{ingredient}}");
     {% endfor %}
 
-    var directions = [];
+    let directions = [];
     {% for direction in page.directions %}
       directions.push("{{direction}}");
     {% endfor %}
 
-    var json = JSON.stringify({
-      title: title,
+    let components = [];
+    {% if page.components %}
+    {% for component in page.components %}
+      components.push("{{component}}");
+    {% endfor %}
+    {% endif %}
+
+    const description = $('div[itemprop="description"]').text();
+
+    const json = JSON.stringify({
       path: path,
+      title: title,
+      image: image,
       tags: tags,
       servings: servings,
-      description: description,
       ingredients: ingredients,
-      directions: directions
+      directions: directions,
+      components: components,
+      description: description,
     });
 
     localStorage.setItem("recipe", json);

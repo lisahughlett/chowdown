@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-title:  "Slow Cook Mac'n Cheese"
+title: "Slow Cook Mac'n Cheese"
 image: slow-cook-mac-n-cheese.jpg
 imagecredit: https://lifemadesweeter.com/crock-pot-macaroni-cheese/
 

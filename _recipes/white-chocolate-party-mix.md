@@ -4,9 +4,9 @@ layout: recipe
 title: White Chocolate Party Mix
 image: white-chocolate-party-mix.jpg
 tags: dessert christmas
-recipeYield: 
+recipeYield:
 
-ingredients: 
+ingredients:
 - 1 lb white chocolate
 - 3 cups Rice Chex
 - 3 cups Corn Chex
@@ -15,7 +15,7 @@ ingredients:
 - 2 cup dry roasted peanuts
 - 1 12oz Pkg m&m's
 
-directions: 
+directions:
 - Combine all ingredients except the white chocolate in a large bowl
 - Melt the white chocolate
 - Slowly pour the melted chocolate over the mixture and stir until evenly coated

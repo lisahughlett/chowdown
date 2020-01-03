@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-title:  "Crispy Carnitas Pork Tacos"
+title: "Crispy Carnitas Pork Tacos"
 image: carnitas-pork-tacos.jpg
 imagecredit: https://www.gimmesomeoven.com/instant-pot-crispy-carnitas/
 

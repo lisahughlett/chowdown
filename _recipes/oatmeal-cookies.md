@@ -4,7 +4,7 @@ layout: recipe
 title: Oatmeal Cookies
 image: oatmeal-cookies.jpg
 tags: dessert
-recipeYield: 
+recipeYield:
 
 ingredients:
 - 1 cup brown sugar
@@ -19,9 +19,9 @@ ingredients:
 - 1 egg
 
 directions:
-- Cream sugar and shortening together until smooth  
+- Cream sugar and shortening together until smooth
 - Add egg, water, and vanilla and stir until well blended
-- Add remaining ingredients 
+- Add remaining ingredients
 - Drop by teaspoonfuls onto a greased cookie sheet
 - Cook for 12 minutes at 350 °F
 

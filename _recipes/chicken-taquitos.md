@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-title:  "Chicken Taquitos"
+title: "Chicken Taquitos"
 image: chicken-taquitos.jpg
 imagecredit: https://bellyfull.net/2012/01/31/baked-chicken-taquitos/
 

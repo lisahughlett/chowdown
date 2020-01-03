@@ -37,7 +37,7 @@ function numberToPretty(inNum){
     let fracRep;
     if (Math.abs(fraction) < 0.00001){
         fracRep = ''
-    } else if (Math.abs(fraction - 1/2) < 0.00001){
+    } else if (Math.abs(fraction - 1 / 2) < 0.00001){
         fracRep = " &frac12;";
     } else if (Math.abs(fraction - 1 / 4) < 0.00001) {
         fracRep = " &frac14;";
@@ -95,8 +95,9 @@ function extractQuantity(ingredient){
 function scaleIngredient(bareIngredient, quantity, scale = 1){
     let matchLength;
     if (quantity == ""){
-        matchLength = 0
-        quantity = '1'
+        return bareIngredient;
+        //matchLength = 0
+        //quantity = '1'
     }
     else {
         matchLength = quantity.length

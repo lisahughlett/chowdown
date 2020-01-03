@@ -4,9 +4,9 @@ layout: recipe
 title: Cheesy Garlic Biscuits
 image: cheesy-garlic-biscuits.jpg
 tags: side
-recipeYield: 
+recipeYield:
 
-ingredients: 
+ingredients:
 - 1/2 cup butter, divided
 - 2 cups all-purpose flour
 - 1 tbsp. granulated sugar
@@ -17,7 +17,7 @@ ingredients:
 - 2 cups mild cheddar cheese
 - 1/2 teaspoon dried parsley
 
-directions: 
+directions:
 - Preheat oven to 425 °F.
 - Prepare a large baking sheet with parchment paper.
 - In a medium microwave-safe bowl, add 1/4 cup butter. Heat until butter is melted. (About 25 seconds) Set aside to slightly cool.

@@ -4,7 +4,7 @@ layout: recipe
 title: Peanut Butter Squares
 image: peanut-butter-squares.jpg
 tags: dessert
-recipeYield: 
+recipeYield:
 
 ingredients:
 - 2 sticks butter

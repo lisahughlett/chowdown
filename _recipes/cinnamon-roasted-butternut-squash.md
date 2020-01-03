@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-title:  "Cinnamon Roasted Butternut Squash"
+title: "Cinnamon Roasted Butternut Squash"
 image: cinnamon-roasted-butternut-squash.jpg
 imagecredit: https://www.inspiredtaste.net/25065/cinnamon-roasted-butternut-squash-recipe/
 
